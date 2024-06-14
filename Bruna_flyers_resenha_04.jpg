@@ -1,0 +1,2370 @@
+                         align="center"                             style="                               font-family: Arial, Verdana, sans-serif;                               font-size: 12px;                               line-height: 20px;                               padding: 15px 0 0 0;                               color: #6f757f;                               font-weight: 700;                             "                           >
+                            Ofertas válidas até 25/03/23 às 23h59 ou enquanto
+                            durarem os estoques.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td                             align="center"                             style="                               font-family: Arial, Verdana, sans-serif;                               font-size: 12px;                               line-height: 20px;                               padding: 20px 0 0 0;                               color: #6f757f;                             "                           >
+                            As fotos dos produtos são meramente ilustrativas. A
+                            venda dos produtos publicados está sujeita a
+                            disponibilidade de estoque. Os preços, promoções e
+                            formas de pagamento publicados neste e-mail são
+                            exclusivos e válidos por tempo determinado, caso
+                            haja divergência de preço e/ou descrição do produto
+                            entre este e-mail e a loja online, prevalece
+                            condições da loja online. As especificações técnicas
+                            e descrições estão sujeitas a alterações sem aviso
+                            prévio.
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td                     align="center"                     style="                       font-family: Arial, Verdana, sans-serif;                       font-size: 12px;                       line-height: 20px;                       color: #6f757f;                       padding-top: 25px;                       font-weight: 700;                     "                   >
+                    Se você não deseja mais receber nossos e-mails, cancele a
+                    sua inscrição
+                    <a style="color: #6f757f" href="https://click.news-electrolux.com.br/unsub_center.aspx?qs=25a1c443c37c15fc432a79e50410d686f693a6de08bb81c6c6485449e177f617a1d73585a22aa97e3e4509ef15b7f2c2f9b00a22a0918c49e2b64c37a6dab15d754d0746dec281cd"                       >aqui.
+                  </a                     ></td>
+                </tr>
+                <tr>
+                  <td                     align="center"                     style="                       font-family: Arial, Verdana, sans-serif;                       font-size: 12px;                       line-height: 20px;                       padding: 20px 0 15px;                       color: #6f757f;                     "                   >
+                    Por razões operacionais de atualização sistêmica, você ainda
+                    poderá receber algum tipo de comunicação<br />
+                    nos próximos dias. Mas não se preocupe, sua vontade será
+                    respeitada e logo tudo estará normalizado.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+
+--8KfIS4nV8mu4=_?:--
+
+From - Sat Mar 25 06:42:58 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Delivered-To: djmecmarcelo2@gmail.com
+Received: by 2002:a05:6f02:a446:b0:49:b18e:50be with SMTP id e6csp614935rcb;
+        Fri, 24 Mar 2023 05:24:41 -0700 (PDT)
+X-Google-Smtp-Source: AKy350ZoB6+nK5tCJODdhCMnFAaFoESuVHERmZjqxQ6T0jGwQIM+6pKztzvgOqXAcr0YUBvO/FDc
+X-Received: by 2002:a05:6214:5019:b0:570:bf43:475 with SMTP id jo25-20020a056214501900b00570bf430475mr3977998qvb.22.1679660681291;
+        Fri, 24 Mar 2023 05:24:41 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1679660681; cv=none;
+        d=google.com; s=arc-20160816;
+        b=xwpI9SiYxcvsO/Bf/OZYAyzf4V5cSzoqGzkaN0t+KjA/w0IdXkVyTtzatumvY0i+0s
+         /W1SJ3zgpQ+25Ml0yhwq9JlLjI3IgE+sMVXSw7SBjKeCXKS8edupIkUUCDdZ0G6Gpw/O
+         UclhSW2OSpvm3m/TvNSmDr7ecL0LWxgQliMOhiVY7pTz7flSYlwBEQ5Ac3u0WfER3ROg
+         RI9mVd7l5lmcKit5Xa4DKEN2VrEF6rlYtpIzhYMl4mE8k7/P+LLoLy51JlM9LrBI3Qu8
+         78Lc4KcvrGhOnvLPJox7RKPKBmAQrGS9z+3UWpFHMvcLCNuxefmylFkWzebj73QIGZrk
+         Fbiw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=feedback-id:message-id:list-id:mime-version:list-unsubscribe-post
+         :list-unsubscribe:date:subject:to:from:dkim-signature;
+        bh=qbT8t03r0d5+Ber7ubZk1oJR5MEHnlP9F1iIjCSRGCI=;
+        b=ZxTuj1tm7ypRlpzKM/+2wWHSeN9WnEQuaxayvUe09lGasDWw8Dcp4PyTRtmw0uosEJ
+         90UInVJ82MfafswH7if07XK8CJddXgEE7IPCLMlNHPSbQ6FXTbtH1z++CK8BGUUJDm38
+         9e+oGGKcl3OvYXowJB8T+BWaOACnw3JgC5zjfbEr1TvNWLlJpOCYB3yRTra8r2yj34R/
+         AXlviJoPJLl+MxYCCF6ztIrpK9B33REVfvwZxfyd4fmZra6FFfcnGTYiUoA4X7DUaRFw
+         GuBZChT6lLPDqAY1yOKXpXhkILUMfAZA0bRgEko5f/zdLmsX5z77I7Jb0uhfxfpjn/Uu
+         4kBg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@microsoftstoreemail.com header.s=200608 header.b=L4nWO4qr;
+       spf=pass (google.com: domain of bounce-866153_html-1479322164-8287135-10359607-11338@bounce.microsoftstoreemail.com designates 64.132.89.178 as permitted sender) smtp.mailfrom=bounce-866153_HTML-1479322164-8287135-10359607-11338@bounce.microsoftstoreemail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=microsoftstoreemail.com
+Return-Path: <bounce-866153_HTML-1479322164-8287135-10359607-11338@bounce.microsoftstoreemail.com>
+Received: from mta10.microsoftstoreemail.com (mta10.microsoftstoreemail.com. [64.132.89.178])
+        by mx.google.com with ESMTPS id q5-20020ad44345000000b005ad99ab81e6si14299834qvs.521.2023.03.24.05.24.40
+        for <djmecmarcelo2@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 24 Mar 2023 05:24:41 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-866153_html-1479322164-8287135-10359607-11338@bounce.microsoftstoreemail.com designates 64.132.89.178 as permitted sender) client-ip=64.132.89.178;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@microsoftstoreemail.com header.s=200608 header.b=L4nWO4qr;
+       spf=pass (google.com: domain of bounce-866153_html-1479322164-8287135-10359607-11338@bounce.microsoftstoreemail.com designates 64.132.89.178 as permitted sender) smtp.mailfrom=bounce-866153_HTML-1479322164-8287135-10359607-11338@bounce.microsoftstoreemail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=microsoftstoreemail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=microsoftstoreemail.com;
+ h=From:To:Subject:Date:List-Unsubscribe:List-Unsubscribe-Post:MIME-Version:
+ List-ID:X-CSA-Complaints:Message-ID:Content-Type;
+ i=microsoftstore@microsoftstoreemail.com;
+ bh=qbT8t03r0d5+Ber7ubZk1oJR5MEHnlP9F1iIjCSRGCI=;
+ b=L4nWO4qrNhwy7qF7+VAQ8MXaf2IxGz7sCq3uj5En1LLDQ0evuV5p2TYoY4Qj6rkonU8H/8NhT+39
+   oLhGNXRrMolgRSdZAsUW8HRBN75zBcgvOiAHijux+P7dfmPW9i6vi3s9QbW7ts0RPtpA1OAb3Bk1
+   wPIKK79Nmf12gQc8xlk=
+Received: by mta10.microsoftstoreemail.com id h3mb8i2fmd47 for <djmecmarcelo2@gmail.com>; Fri, 24 Mar 2023 12:24:26 +0000 (envelope-from <bounce-866153_HTML-1479322164-8287135-10359607-11338@bounce.microsoftstoreemail.com>)
+From: "Microsoft Store" <microsoftstore@microsoftstoreemail.com>
+To: <djmecmarcelo2@gmail.com>
+Subject: Forza Horizon 5: Rally Adventure
+Date: Fri, 24 Mar 2023 06:24:26 -0600
+List-Unsubscribe: <https://click.microsoftstoreemail.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiIxMDM1OTYwNyIsInMiOiIxNDc5MzIyMTY0IiwibGlkIjoiODY2MTUzIiwiaiI6IjgyODcxMzUiLCJqYiI6IjExMzM4IiwiZCI6IjEwMTY2In0.U0VAXqOyuZhYEg8QnNX4n3O-rOdu05RlgsnZEvbisWk>, <mailto:leave-fcae1c767365017e1a4c342838-fdf81574726d077f77157671-fe8d1c727d63057e70-fe60157076610d7b7513-feff157176670c@leave.microsoftstoreemail.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+List-ID: <96540.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 1
+x-job: 10359607_8287135
+Message-ID: <69607e9e-4dfe-4d1a-a3c7-99436813ad75@ind1s01mta1038.xt.local>
+Feedback-ID: 10359607:8287135:64.132.89.178:sfmktgcld
+Content-Type: multipart/alternative;
+	boundary="1rgzJ6lb4ppj=_?:"
+
+This is a multi-part message in MIME format.
+
+--1rgzJ6lb4ppj=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+
+
+--1rgzJ6lb4ppj=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<span style="display: none">
+    
+</span>
+
+<!DOCTYPE html>
+<html lang="pt" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <title>Forza Horizon 5: Rally Adventure</title>
+    <style media="all" type="text/css">
+        div.preheader {
+            display: none !important;
+        }
+        
+        table td {
+            border-collapse: collapse;
+        }
+        
+        body {
+            background-color: #f2f2f2 !important;
+            -webkit-text-size-adjust: none;
+        }
+        
+        .ReadMsgBody {
+            width: 100%;
+        }
+        
+        .ExternalClass {
+            width: 100%;
+        }
+        
+        .linkfix a {
+            color: #959595 !important;
+            text-decoration: none !important;
+            font: 9px Helvetica, Arial, sans-serif;
+        }
+        
+        a.nounderline {
+            text-decoration: none !important;
+        }
+        
+        p.MsoNormal {
+            margin-bottom: .0001pt;
+            font-size: 11.0pt;
+            font-family: "Calibri","sans-serif";
+            margin-left: 0in;
+            margin-right: 0in;
+            margin-top: 0in;
+        }
+    </style>
+    <!--[if gte mso 9]>      <xml>          <o:OfficeDocumentSettings>          <o:AllowPNG/>          <o:PixelsPerInch>96</o:PixelsPerInch>          </o:OfficeDocumentSettings>      </xml>      <![endif]-->
+</head>
+
+<body>
+    <div style="display: none; max-height: 0px; overflow: hidden;">Novos lançamentos do Xbox Game Pass&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;</div>
+    <div style="background-color: #f2f2f2;">
+
+
+        <table role="presentation" align="center" border="0" cellspacing="0" cellpadding="0" width="620">
+            <tbody>
+                <tr>
+                    <td valign="top" style="background-color: #f2f2f2;">
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="620">
+
+                            <tbody>
+                                <tr>
+                                    <td valign="top">
+                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="620">
+                                            <tbody>
+                                                <tr>
+                                                    <td valign="top">
+                                                        <div class="eml-header">
+
+
+
+
+                                                            <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="620">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td valign="top" style="padding: 0 7px;">
+                                                                            <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="border: 1px solid #f2f2f2;">
+                                                                                            <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                                                <tbody>
+                                                                                                    <tr>
+                                                                                                        <td valign="top" style="border: 1px solid #f2f2f2;">
+                                                                                                            <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                                                                <tbody>
+                                                                                                                    <tr>
+                                                                                                                        <td valign="top" style="border: 1px solid #f2f2f2;">
+                                                                                                                            <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+
+                                                                                                                                <tbody>
+                                                                                                                                    <tr>
+                                                                                                                                        <td valign="top" style="padding: 0;">
+                                                                                                                                            <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                                                                                                <tbody>
+                                                                                                                                                    <tr>
+                                                                                                                                                        <td valign="top">
+                                                                                                                                                            <div style="height: 105px;">
+                                                                                                                                                                <a href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab89e03ff2ecaaaec9458ad1010810581306058d97f346af812f0a29643311acd939063557a998d00135618e82d0ad9d17a843f34364f28c65" target="_blank">
+                                                                                                                                                                    <img border="0" src="https://msstorepromoemail.blob.core.windows.net/templates-v01/header-v01/Header1.jpg" width="200" height="105" alt="Microsoft" style="display: block; border: none; color: #000000; background-color: #f2f2f2; font-size: 14px; font-family: Arial;">
+                                                                                                                                                                </a>
+                                                                                                                                                            </div>
+                                                                                                                                                        </td>
+                                                                                                                                                        <td valign="top">
+                                                                                                                                                            <div style="height: 105px;">
+                                                                                                                                                                <a href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab89e03ff2ecaaaec9458ad1010810581306058d97f346af812f0a29643311acd939063557a998d00135618e82d0ad9d17a843f34364f28c65" target="_blank">
+                                                                                                                                                                    <img border="0" src="https://msstorepromoemail.blob.core.windows.net/templates-v01/header-v01/Header2_NoMessage.jpg" width="400" height="105" alt="" style="display: block; border: none; color: #000000; background-color: #f2f2f2; font-size: 14px; font-family: Arial;">
+                                                                                                                                                                </a>
+                                                                                                                                                            </div>
+                                                                                                                                                        </td>
+                                                                                                                                                    </tr>
+                                                                                                                                                </tbody>
+                                                                                                                                            </table>
+                                                                                                                                        </td>
+                                                                                                                                    </tr>
+
+                                                                                                                                </tbody>
+                                                                                                                            </table>
+                                                                                                                        </td>
+                                                                                                                    </tr>
+                                                                                                                </tbody>
+                                                                                                            </table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody>
+                                                                                            </table>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+
+                                                        </div>
+
+
+                                                    </td>
+                                                </tr>
+
+
+                                                <tr class="">
+                                                    <td valign="top" style="padding: 5px 7px 0;">
+                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td valign="top" style="border: 1px solid #eeeeee;">
+                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td valign="top" style="border: 1px solid #e7e7e7;">
+                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                                            <tbody>
+                                                                                                <tr>
+                                                                                                    <td valign="top" style="border: 1px solid #dbdbdb;">
+                                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="600">
+
+                                                                                                            <tbody>
+                                                                                                                <tr class="">
+                                                                                                                    <td valign="top" style="background-color: rgb(47, 47, 47);">
+                                                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="600">
+                                                                                                                            <tbody>
+                                                                                                                                <tr>
+                                                                                                                                    <td valign="top">
+                                                                                                                                        <div style="height: 400px;">
+                                                                                                                                            <a target="_blank"  href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acabbd2dd1503527686a1a37ef290f9afb973ca55ef5c09e6af6f9d3018a99be07d71a0b4b03f87bfcac2952375f069dd84c347a1fde765227e4">
+                                                                                                                                                <img border="0" alias="Image1" width="600" height="400" alt="Imagen do principal complemento Forza Horizon 5: Rally Adventure." style="max-height: 400px; display: block; border: none; font-size: 14px; font-family: Arial; background-color: rgb(47, 47, 47); color: rgb(255, 255, 255);" src="https://sqlvao6mnt4fytltxm.blob.core.windows.net/toolkit/OnlineStores/9504d77a-7ebe-433b-ae99-c6bf4622d208.jpg">
+                                                                                                                                            </a>
+                                                                                                                                        </div>
+                                                                                                                                    </td>
+                                                                                                                                </tr>
+                                                                                                                            </tbody>
+                                                                                                                        </table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+
+
+                                                                                                                <!--         HeroText     -->
+                                                                                                                <tr class="">
+
+                                                                                                                    <td valign="top" class="">
+                                                                                                                        <div>
+                                                                                                                            <a  href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab5ef2ad059e2c719817a0bffccba494f5b0e4e0265c5f9fc8d272a12d2534667920818c69056c72b1f903bccf1fa64cf3e9dac049c1bcea9a" target="_blank">
+                                                                                                                                <img border="0" width="600" alt="Disponível em 29 de março de 2023. Forza Horizon 5: Rally Adventure. Dirija carros de rali e conquiste o terreno de Sierra Nueva. Junte-se a até três equipes e enfrente as rotas de rali e corrida mais empolgantes de Horizon.*. Compre o Pacote de Complementos Premium. Este complemento requere o jogo base Forza Horizon 5." style="display: block; border: none; font-size: 12px; font-family: Arial; color: rgb(255, 255, 255); background-color: rgb(47, 47, 47);" src="https://msstoreintlemail.blob.core.windows.net/toolkits-2021-11/CC7334^Xbox_Newsletter_Mar_FY23^pt_BR/CC7334^Xbox_Newsletter_Mar_FY23^pt_BR_Hero1.png">
+                                                                                                                            </a>
+                                                                                                                        </div>
+                                                                                                                    </td>
+                                                                                                                </tr>
+
+
+                                                                                                            </tbody>
+                                                                                                        </table>
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                            </tbody>
+                                                                                        </table>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr class="">
+                                                    <td valign="top" style="padding: 5px 7px 0;">
+                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td valign="top" style="border: 1px solid #eeeeee;">
+                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td valign="top" style="border: 1px solid #e7e7e7;">
+                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                                            <tbody>
+                                                                                                <tr>
+                                                                                                    <td valign="top" style="border: 1px solid #dbdbdb;">
+                                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="600">
+
+                                                                                                            <tbody>
+                                                                                                                <tr class="">
+                                                                                                                    <td valign="top" style="background-color: rgb(255, 255, 255);">
+                                                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="600">
+                                                                                                                            <tbody>
+                                                                                                                                <tr>
+                                                                                                                                    <td valign="top">
+                                                                                                                                        <div style="height: 400px;">
+                                                                                                                                            <a target="_blank"  href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acabb1253be8c6ef33b34eb8a62829f27db93abea53f0489ef5efe65a373a44ef0ecefa30f81c70d09fb48ef77fc8a4cdaa5fcb1bdbe21abd1ad">
+                                                                                                                                                <img border="0" alias="Image2" width="600" height="400" alt="Imagen da temporada 3 de Halo Infinite, Echoes Within." style="max-height: 400px; display: block; border: none; font-size: 14px; font-family: Arial; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);" src="https://sqlvao6mnt4fytltxm.blob.core.windows.net/toolkit/OnlineStores/3c3bf61d-cd6e-4cf7-ac4c-cd89e744b0de.jpg">
+                                                                                                                                            </a>
+                                                                                                                                        </div>
+                                                                                                                                    </td>
+                                                                                                                                </tr>
+                                                                                                                            </tbody>
+                                                                                                                        </table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+
+
+                                                                                                                <!--         HeroText     -->
+                                                                                                                <tr class="">
+
+                                                                                                                    <td valign="top" class="">
+                                                                                                                        <div>
+                                                                                                                            <a  href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab291d6e33ac7673e5a5190b27e5ce95f47681983772c4cc8fe0a7a88a91dc2c29abe3bf44d8e48a0a171f10a6ca9b7cee98cf3327e901c73e" target="_blank">
+                                                                                                                                <img border="0" width="600" alt="A terceira temporada já está disponível. Halo Infinite Temporada 3: Echoes Within. O jogo traz um novo passe de batalha de 100 níveis, novos mapas e modo de jogo e, pela primeira vez, uma nova arma e um novo equipamento. Comprar créditos Halo." style="display: block; border: none; font-size: 12px; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);" src="https://msstoreintlemail.blob.core.windows.net/toolkits-2021-11/CC7334^Xbox_Newsletter_Mar_FY23^pt_BR/CC7334^Xbox_Newsletter_Mar_FY23^pt_BR_Hero2.png">
+                                                                                                                            </a>
+                                                                                                                        </div>
+                                                                                                                    </td>
+                                                                                                                </tr>
+
+
+                                                                                                            </tbody>
+                                                                                                        </table>
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                            </tbody>
+                                                                                        </table>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr class="">
+                                                    <td valign="top" style="padding: 5px 7px 0;">
+                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td valign="top" style="border: 1px solid #eeeeee;">
+                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td valign="top" style="border: 1px solid #e7e7e7;">
+                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                                            <tbody>
+                                                                                                <tr>
+                                                                                                    <td valign="top" style="border: 1px solid #dbdbdb;">
+                                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="600">
+
+                                                                                                            <tbody>
+                                                                                                                <tr class="">
+                                                                                                                    <td valign="top" style="background-color: rgb(47, 47, 47);">
+                                                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="600">
+                                                                                                                            <tbody>
+                                                                                                                                <tr>
+                                                                                                                                    <td valign="top">
+                                                                                                                                        <div style="height: 400px;">
+                                                                                                                                            <a target="_blank"  href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab0575abacf1238ca4f14f6dc25651d706c0f4dae2d2ae960ac8855bf4184d020f25aab914eec6e8e63f1e234633491b0b90b9908d1c0dfd0a">
+                                                                                                                                                <img border="0" alias="Image3" width="600" height="400" alt="Imagen do jogo Wo Long: Fallen Dinasty." style="max-height: 400px; display: block; border: none; font-size: 14px; font-family: Arial; background-color: rgb(47, 47, 47); color: rgb(255, 255, 255);" src="https://sqlvao6mnt4fytltxm.blob.core.windows.net/toolkit/OnlineStores/08202179-cf6d-46fa-b8b5-9f058088cac3.jpg">
+                                                                                                                                            </a>
+                                                                                                                                        </div>
+                                                                                                                                    </td>
+                                                                                                                                </tr>
+                                                                                                                            </tbody>
+                                                                                                                        </table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+
+
+                                                                                                                <!--         HeroText     -->
+                                                                                                                <tr class="">
+
+                                                                                                                    <td valign="top" class="">
+                                                                                                                        <div>
+                                                                                                                            <a  href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acabcb40bee7ce9fa0c067bc816e41c595d9ade6f2288a410176bf1524154ab6d431f3e358c4ef93eb07d7cdb4d60107dcf382aa10a2f00b8743" target="_blank">
+                                                                                                                                <img border="0" width="600" alt="Disponível no Xbox Game Pass. Wo Long: Fallen Dynasty. Acompanhe a história dramática e cheia de ação de um soldado da milícia lutando pela sobrevivência em uma versão de fantasia sombria dos Três Reinos. Compre agora." style="display: block; border: none; font-size: 12px; font-family: Arial; color: rgb(255, 255, 255); background-color: rgb(47, 47, 47);" src="https://msstoreintlemail.blob.core.windows.net/toolkits-2021-11/CC7334^Xbox_Newsletter_Mar_FY23^pt_BR/CC7334^Xbox_Newsletter_Mar_FY23^pt_BR_Hero3.png">
+                                                                                                                            </a>
+                                                                                                                        </div>
+                                                                                                                    </td>
+                                                                                                                </tr>
+
+
+                                                                                                            </tbody>
+                                                                                                        </table>
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                            </tbody>
+                                                                                        </table>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+
+
+                                                <tr class="">
+                                                    <td valign="top" style="padding: 5px 7px 0;">
+                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td valign="top" style="border: 1px solid #eeeeee;">
+                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td valign="top" style="border: 1px solid #e7e7e7;">
+                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                                                            <tbody>
+                                                                                                <tr>
+                                                                                                    <td valign="top" style="border: 1px solid #dbdbdb;">
+                                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="600">
+                                                                                                            <!--  RightImgBanner  -->
+
+                                                                                                            <tbody>
+                                                                                                                <tr>
+                                                                                                                    <td valign="top" class="">
+                                                                                                                        <div>
+                                                                                                                            <a  href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab24829001f7ab963344a5eee9a34de6ffb8fc9ec1f52efcf7818548a9f55aa76f65a3a0c7274b7fd33ed18448f5c32dbeec36541b1082c9c4" target="_blank">
+                                                                                                                                <img border="0" width="300" alt="Junte-se ao Xbox Game Pass Ultimate hoje. Saiba mais." style="display: block; border: none; font-size: 12px; font-family: Arial; background-color: rgb(47, 47, 47);" src="https://msstoreintlemail.blob.core.windows.net/toolkits-2021-11/CC7334^Xbox_Newsletter_Mar_FY23^pt_BR/CC7334^Xbox_Newsletter_Mar_FY23^pt_BR_RightImgBanner.png">
+                                                                                                                            </a>
+                                                                                                                        </div>
+                                                                                                                    </td>
+                                                                                                                    <td valign="top" style="background-color: rgb(47, 47, 47);">
+                                                                                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="300">
+                                                                                                                            <tbody>
+                                                                                                                                <tr>
+                                                                                                                                    <td valign="top">
+                                                                                                                                        <div style="height: 200px;">
+                                                                                                                                            <a target="_blank"  href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab463f7a8fb3e65bf2cdf904fad0c53b32928c0be8f93aa7328f2c29decd6dd81bd79ee12b3e7fa40afe6e9552ac2bb06e732362b027b3abe5">
+                                                                                                                                                <img border="0" width="300" height="200" alt="Imagem do Logo Xbox Game Pass" style="display: block; height: 200px; max-height: 200px; border: none; font-size: 12px; font-family: &quot;Segoe UI Regular&quot;, &quot;Segoe UI&quot;, Arial; background-color: rgb(47, 47, 47); color: rgb(255, 255, 255);" class="" src="https://sqlvao6mnt4fytltxm.blob.core.windows.net/toolkit/OnlineStores/c0cb89e4-9b6f-4bf7-86aa-ea8b9758d6e7.png">
+                                                                                                                                            </a>
+                                                                                                                                        </div>
+                                                                                                                                    </td>
+                                                                                                                                </tr>
+                                                                                                                            </tbody>
+                                                                                                                        </table>
+                                                                                                                    </td>
+
+                                                                                                                </tr>
+                                                                                                            </tbody>
+                                                                                                        </table>
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                            </tbody>
+                                                                                        </table>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+
+
+
+
+                                                <tr>
+                                                    <td valign="top">
+                                                        <div style="height: 18px">
+                                                            <img border="0" src="https://msstorepromoemail.blob.core.windows.net/14879-fy18-template-update-en-us/US_MasterTemplate_Promo_06.jpg" width="620" height="18" alt="" style="display: block; border: none; color: #000000; background-color: #f2f2f2; font-size: 15px; font-family: Arial;">
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top">
+                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="620" class="">
+                                            <tbody>
+                                                <tr>
+                                                    <td valign="top">
+                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td valign="top">
+                                                                        <div style="height: 40px">
+                                                                            <a href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab0e0a37d489e381ede3b9e5938671884f4e8f8beaf9d12fd86598412b715b560cf9c910bdfbae553cb3b4836fa5fa729fb2f85380fbe7ec07" target="_blank">
+                                                                                <img border="0" src="https://msstoreintlemail.blob.core.windows.net/17183-fy20-m365-footer-navigation-updates/INTL_pt_BR_MasterTemplate_Promo_Transactional_05.jpg" width="310" height="40" alt="Microsoft 365" style="display: block; border: none; color: #000000; background-color: #f2f2f2; font-size: 12px; font-family: Arial;">
+                                                                            </a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td valign="top">
+                                                                        <div style="height: 40px">
+                                                                            <a href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab93ff2e892357d70761ccde43dd6104c6f030bd11ba6ea07deb6fb985b9bf0d32c125eb95bc0cbe5a0cfd954fe4f43a02a3730eeb99be57eb" target="_blank">
+                                                                                <img border="0" src="https://msstoreintlemail.blob.core.windows.net/14880-fy18-international-template-update/INTL_pt_BR_MasterTemplate_Promo_Transactional_06.jpg" width="310" height="40" alt="Windows" style="display: block; border: none; color: #000000; background-color: #f2f2f2; font-size: 12px; font-family: Arial;">
+                                                                            </a>
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td valign="top">
+                                                                        <div style="height: 20px">
+                                                                            <img border="0" src="https://msstoreintlemail.blob.core.windows.net/14880-fy18-international-template-update/INTL_pt_BR_MasterTemplate_Promo_Transactional_07.jpg" width="620" height="20" alt="" style="display: block; border: none; color: #000000; background-color: #f2f2f2; font-size: 12px; font-family: Arial;">
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td valign="top">
+                                                                        <div style="height: 40px">
+                                                                            <a href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acaba8dc5589adf1d0eede8b1a92f855498325e2bfb193203022710914c2bd25135a12877130f38008765eb40341683b63194bf96b1b28a19c96" target="_blank">
+                                                                                <img border="0" src="https://msstoreintlemail.blob.core.windows.net/14880-fy18-international-template-update/INTL_pt_BR_MasterTemplate_Promo_Transactional_08.jpg" width="310" height="40" alt="Xbox" style="display: block; border: none; color: #000000; background-color: #f2f2f2; font-size: 12px; font-family: Arial;">
+                                                                            </a>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td valign="top">
+                                                                        <div style="height: 40px">
+                                                                            <a href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab6c024475115ccaf4460b7f7d379908f085fef9563e3f1e05338ff431c24be0c3f646af172a0d2c5a433a0fac00de3c50bb12c0e871c6d7b6" target="_blank">
+                                                                                <img border="0" src="https://msstoreintlemail.blob.core.windows.net/14880-fy18-international-template-update/INTL_pt_BR_MasterTemplate_Promo_Transactional_09.jpg" width="310" height="40" alt="Aplicativos" style="display: block; border: none; color: #000000; background-color: #f2f2f2; font-size: 12px; font-family: Arial;">
+                                                                            </a>
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top">
+                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td valign="top">
+                                                                        <div style="height: 53px">
+                                                                            <img border="0" src="https://msstoreintlemail.blob.core.windows.net/14880-fy18-international-template-update/INTL_pt_BR_MasterTemplate_Promo_Transactional_10.jpg" width="620" height="53" alt="" style="display: block; border: none; color: #000000; background-color: #f2f2f2; font-size: 15px; font-family: Arial;">
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top" style="padding-top: 38px; padding-left: 35px; padding-right: 35px;">
+
+                                                        <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td valign="top" style="font-family: Arial; font-size: 16px; color: #4f4f4f; mso-line-height-rule: exactly; margin: 0px; line-height: normal; ">
+                                                                        <div style="line-height: normal;">
+                                                                            <a href="https://view.microsoftstoreemail.com/?qs=d6db554003bb583f300dd9f04b560120b6c79ac49d05f1d8250e75fd78141a93c066dad27ee1d86a4b59a2c827c34cd2d096137535d7a339440987fe4906f2cc98c8d9615f49245014afddbdc452dc15fc50ccd0aa68aa0a" target="_blank" style="color: #4f4f4f; text-decoration: underline;">Visualizar no navegador</a> | <a href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab01f92d545120e382541b42a54989836d34c24f06a29b7ad8aea192a642bcb12c3907ce5acb7411f075cee70f22639cb17bad894cd3f0c493" target="_blank" style="color: #4f4f4f; text-decoration: underline;">Declaração de privacidade</a>
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td valign="top" style="font-family: Arial; font-size: 16px; color: #4f4f4f; mso-line-height-rule: exactly; margin: 0px; line-height: normal; padding-top: 36px;">
+                                                                        <div style="line-height: 25px;">
+                                                                            <span class="">
+                                                                                <span ng-bind-html="Email.footerLegal" class="">*FORZA HORIZON 5: RALLY ADVENTURE está incluído no Forza Horizon 5 Premium Edition, Expansion Pack e Premium Add-on Pack. Este complemento requer o jogo base Forza Horizon 5 (vendido separadamente).</span>
+                                                                                <br>
+                                                                                <br>
+                                                                            </span>
+                                                                             
+
+    
+       
+            			<a href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab56e37518d85f290ef1db56cd773dd6ee8578ab153deb72472d4df3d405944eb981acdcb07dda51e7231222e9d521ca8cf6319200327622d8" style="color: #4f4f4f; text-decoration: underline;">Cancelar assinatura</a> | <a href="https://click.microsoftstoreemail.com/?qs=1c53fa00a5c9acab01f92d545120e382541b42a54989836d34c24f06a29b7ad8aea192a642bcb12c3907ce5acb7411f075cee70f22639cb17bad894cd3f0c493" style="color: #4f4f4f; text-decoration: underline;">Política de Privacidade</a><br>
+Microsoft Corporation<br>
+One Microsoft Way<br>
+Redmond, WA 98052
+
+	    
+    
+
+
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+    <img src="https://click.microsoftstoreemail.com/open.aspx?ffcb10-fe8d1c727d63057e70-fdf115787c640c7472167275-fe60157076610d7b7513-fec21c767365017e-fdf81574726d077f77157671-feff157176670c&d=10166&bmt=0" width="1" height="1" alt="">
+</body>
+
+</html>
+
+--1rgzJ6lb4ppj=_?:--
+
+From - Sat Mar 25 06:42:58 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Delivered-To: djmecmarcelo2@gmail.com
+Received: by 2002:a05:6f02:a446:b0:49:b18e:50be with SMTP id e6csp20014rcb;
+        Fri, 24 Mar 2023 15:54:47 -0700 (PDT)
+X-Google-Smtp-Source: AK7set8lk1MfE7x37xRRonvmWRDVShfIaxMK/9mJ0myO9YpynZVtpzAAnkDKkB28oHr+i2JFIZ5z
+X-Received: by 2002:ac8:5905:0:b0:3e3:9958:5fe8 with SMTP id 5-20020ac85905000000b003e399585fe8mr7710928qty.42.1679698487675;
+        Fri, 24 Mar 2023 15:54:47 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1679698487; cv=none;
+        d=google.com; s=arc-20160816;
+        b=KIOXDbgCgL1j8x7FnLuQj2lmr3KuOWgA5BdkgClUcW83PN5UiooKW+YJBVvQgVh3V3
+         KUp2IU7fXvJjRgTED3F18Cwa+ziVm3tMoABXI3nKa7ghuaB5V58BryVfCgpWnX0geLZV
+         pk9igGput6wYkriq4GYA3adZsfgs8nZYij9+07OXmMyBuBrGgA0evqE8VdJ4pxc/sngm
+         J5dO7YQ+9ARFmROFOVn0rLcKOOqnUz3Rj2N3zddFwuiKMjnwEGI6stXF4ShNGGGeABW+
+         xw65S3cEE/5nthIK7b6eoVjFwdm9R9FpSB5AIkFQS1zNuMT95KR9VWcFa7WRGSFmUdwE
+         /gkg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=message-id:reply-to:to:from:subject:mime-version:date:sender
+         :dkim-signature:dkim-signature;
+        bh=ZAoywZYJdkHhEUS6gwAGsaYT5KFLVgFzTdZYF0v01rs=;
+        b=zX7ZMZ5b/jv9l08dkhoYba3ppNS4EbYolNVFP9s5p3zmXyGmq+eeX1Tw8cGQ066f9E
+         fpUqFgOn5It0bZw9xVBJNA1oNNt/X0rehEQTkRUi62+TRD63v7eHQhMF85KEukqqKDG5
+         4HEsnc5UX3gLJJSXbhIho0jzetFx0Ex1qEwFkbAT/9WoJgVMKg6yp5V9cSbkxFX1XSw2
+         /OBaHPSIJGad5SilLkQ1h/deZLU7WW7Q/IbljQILRHvkon7rALW3iU5Q8l/ZVdmgvNg6
+         QzMXe0rZnwHXjjO/y6O2P6u6YQJ8j9QFeDuXnzGKCDJzF68RVbCw/UvyLNUmFdMTpfXa
+         DhmQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@discover.pinterest.com header.s=pins header.b=g3sjQXpp;
+       dkim=pass header.i=@mailgun.org header.s=mg header.b=MqOBdXxY;
+       spf=pass (google.com: domain of bounce+v2+4d2b5d.56089b.1679698486.baacaax1o5awx8or-ebkr7qvsf8rgtdpyw==~djmecmarcelo2=gmail.com@discover.pinterest.com designates 64.45.163.17 as permitted sender) smtp.mailfrom="bounce+v2+4d2b5d.56089b.1679698486.BAACAAX1O5AWx8OR-eBKR7qvsF8RGtdPYw==~djmecmarcelo2=gmail.com@discover.pinterest.com";
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=pinterest.com
+Return-Path: <bounce+v2+4d2b5d.56089b.1679698486.BAACAAX1O5AWx8OR-eBKR7qvsF8RGtdPYw==~djmecmarcelo2=gmail.com@discover.pinterest.com>
+Received: from outbound-402da311.pinterestmail.com (outbound-402da311.pinterestmail.com. [64.45.163.17])
+        by mx.google.com with UTF8SMTPS id br42-20020a05620a462a00b00746a36c3400si7178931qkb.538.2023.03.24.15.54.47
+        for <djmecmarcelo2@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Fri, 24 Mar 2023 15:54:47 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce+v2+4d2b5d.56089b.1679698486.baacaax1o5awx8or-ebkr7qvsf8rgtdpyw==~djmecmarcelo2=gmail.com@discover.pinterest.com designates 64.45.163.17 as permitted sender) client-ip=64.45.163.17;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@discover.pinterest.com header.s=pins header.b=g3sjQXpp;
+       dkim=pass header.i=@mailgun.org header.s=mg header.b=MqOBdXxY;
+       spf=pass (google.com: domain of bounce+v2+4d2b5d.56089b.1679698486.baacaax1o5awx8or-ebkr7qvsf8rgtdpyw==~djmecmarcelo2=gmail.com@discover.pinterest.com designates 64.45.163.17 as permitted sender) smtp.mailfrom="bounce+v2+4d2b5d.56089b.1679698486.BAACAAX1O5AWx8OR-eBKR7qvsF8RGtdPYw==~djmecmarcelo2=gmail.com@discover.pinterest.com";
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=pinterest.com
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=discover.pinterest.com;
+ q=dns/txt; s=pins; t=1679698486; x=1679705686; h=Message-Id: Reply-To:
+ To: To: From: From: Subject: Subject: Content-Type: Mime-Version: Date:
+ Sender: Sender: X-Feedback-Id;
+ bh=ZAoywZYJdkHhEUS6gwAGsaYT5KFLVgFzTdZYF0v01rs=; b=g3sjQXppRlu49aPjp7Mz1qvWtIqyW2vbMLp2ba55gtS+YG465VlKkkjHbKNVmRLx30OTtxaj
+ mV2WhgRxputdRZfB50oj9AeJg9bW3MvB0/NqZAUHgDUMrP80P5lofVI7wSFsuazqGXJMO8nI
+ xN2h/OQOvCbmUyYhmze9yaJMLddVjkBRvR/oZ6sWj+6KufPM0Y3QzQLUsqnI5h0et5LR+0mU
+ 6Vg8ChAA+H6FPI2+tDw/qEwuREAoe7cSC4hwtw9fwhYaHAIy2hPl+cHKH6k23p/hY8KPB3Pz
+ dJ2NovjXcDuDSTW2kJKiQNJRjrTOeaeU0Qrb7o8kywINsqpnqNIn4A==
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mailgun.org; q=dns/txt; s=mg;
+ t=1679698486; x=1679705686; h=Message-Id: Reply-To: To: To: From: From:
+ Subject: Subject: Content-Type: Mime-Version: Date: Sender: Sender:
+ X-Feedback-Id; bh=ZAoywZYJdkHhEUS6gwAGsaYT5KFLVgFzTdZYF0v01rs=; b=MqOBdXxY5S3VH47dtTovcFssYS+jgTZhvTBEpN5SeWTv+eJ3PespH36T3vcdw8s+KyGhEqFB
+ 5Z+iQWMT7nVoWTu35zcq6VL2ouc6Xzj6KTCgL9Li4wcfDorqmTY8XgOxqAFI36kaofwI9WBW
+ iByiP+rqsDoeVZhXS6/f6hAVOi4=
+X-Feedback-Id: recommendations@discover.pinterest.com::604963f79dfa82bd0d934bda:mailgun
+X-Mailgun-Sending-Ip: 64.45.163.17
+X-Mailgun-Sid: WyI0ZTYzYSIsImRqbWVjbWFyY2VsbzJAZ21haWwuY29tIiwiNTYwODliIl0=
+Received: from <unknown> (<unknown> []) by 8efda276b9f7 with HTTP id
+ 641e2a36cedd28886065f157; Fri, 24 Mar 2023 22:54:46 GMT
+Sender: recommendations@discover.pinterest.com
+Date: Fri, 24 Mar 2023 22:54:46 +0000
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="a32996c7eb23d0328a8eb1fdda1cfcc8952233c346b27ddd16f0976b59e6"
+Subject: "hifi", "Turntables" e 3 outras pastas inspiradas na sua atividade
+ recente
+From: Pinterest <recommendations@discover.pinterest.com>
+To: Djmecmarcelo <djmecmarcelo2@gmail.com>
+X-Mailgun-Track-Clicks: false
+X-Mailgun-Track-Opens: true
+Reply-To: recommendations@reply.pinterest.com
+X-Mailgun-Variables: {"bdg": "discover", "cmp":
+ "REALTIME_USER_ACTION_BOARD_RECS", "sid":
+ "8a5e59880ba403359684b3a127b8167f", "snid":
+ "4241d12eb9fb4d5db949c81b5e56f39f", "trk":
+ "a27f44b18fbc4ab29075f03ab495b0b6", "uid": "596164206831784150"}
+Message-Id: <20230324225446.0ea9f81fa0fc5c50@discover.pinterest.com>
+
+--a32996c7eb23d0328a8eb1fdda1cfcc8952233c346b27ddd16f0976b59e6
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+Para visualizar este conte=C3=BAdo, abra a seguinte URL no seu navegador: h=
+ttps://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODMxNzg0MTUw&od=
+=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxUSU1FX1VTRVJfQUNU=
+SU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I4MTY3ZiZuPTQyNDF=
+kMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&target=3Dhttps%3A%2F%2Fwww.pinterest.=
+com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODMxNzg0MTUw%26od%3D9Si=
+vokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%252FfgKGktuuL5HKf%25=
+2BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5Se5qlrHM2ZmVqB6Pdq%2=
+52FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26next%3D%252Fnews_hub%=
+252F5288437127711873325%252F%253Futm_campaign%253Druadboards%2526e_t%253Da2=
+7f44b18fbc4ab29075f03ab495b0b6%2526e_t_s%253Dcta%2526utm_source%253D31%2526=
+utm_medium%253D2004
+
+
+Pinterest
+
+651 Brannan Street, San Francisco, CA, 94107
+
+    Central de Ajuda: https://www.pinterest.com/email/click/?user_id=3DNTk2=
+MTY0MjA2ODMxNzg0MTUw&od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjP=
+VJFQUxUSU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIz=
+YTEyN2I4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&target=3Dhttps=
+%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fhelp%2F%3Fsource%3Demail_footer%26utm_=
+campaign%3Druadboards%26e_t%3Da27f44b18fbc4ab29075f03ab495b0b6%26e_t_s%3Dfo=
+oter%26utm_source%3D31%26utm_medium%3D2004
+
+    Pol=C3=ADtica de Privacidade: https://www.pinterest.com/email/click/?us=
+er_id=3DNTk2MTY0MjA2ODMxNzg0MTUw&od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiN=
+Dk1YjBiNiZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQw=
+MzM1OTY4NGIzYTEyN2I4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&ta=
+rget=3Dhttps%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fpolicy%2Fprivacy-policy%2F
+
+    Termos e condi=C3=A7=C3=B5es: https://www.pinterest.com/email/click/?us=
+er_id=3DNTk2MTY0MjA2ODMxNzg0MTUw&od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiN=
+Dk1YjBiNiZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQw=
+MzM1OTY4NGIzYTEyN2I4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&ta=
+rget=3Dhttps%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fpolicy%2Fterms-of-service%=
+2F
+
+    Cancelar recebimento: https://www.pinterest.com/email/click/?user_id=3D=
+NTk2MTY0MjA2ODMxNzg0MTUw&od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiN=
+iZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4=
+NGIzYTEyN2I4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&target=3Dh=
+ttps%3A%2F%2Fwww.pinterest.com%2Femail%2Funsubscribe%2F%3Fuser_id%3DNTk2MTY=
+0MjA2ODMxNzg0MTUw%26od%3DHpUUuH1iXS7UiZaUERuoh3JRokgbEmTHk1KVgNJq%252FjkVsY=
+H5eV66a%252BBMYfXNheTR5XVC2f0fXOlCcLycpsryIVfwQ5hHQXe5AzyzwkUv1lsqUCBaMeDBQ=
+pDyoBK5tIsc54uu6TTneaQ6jCwCRxK9cGIuUvPnD4gzkqyrjLhHFQYBrhCy7dutbfZWdG1963wj=
+K6x%252ByNYTLRebzYyJOizL5N8q96gzh%252Btx8UGglUUNtq5dIQio8AEWfgq70DWLUNqmehf=
+2fNysVDClBdf16uwmblRtzTHJvENZ1tBPvr3Gb18Pw1TUgGaSRinPiqY194nm71%252BNt7%252=
+FNjP0EyVl4P27bYsIkrODrvxFojGPJY6gTWCaoGtLhENo8Q7jd7Z2XtnXkdJ%252FP2gmj2aSUG=
+1KsvcvFQnjRqWeA%252FeOJwMCvLJUpzp0HsMv9%252BUcP8Bso0WJfDpPT%26utm_campaign%=
+3Druadboards%26e_t%3Da27f44b18fbc4ab29075f03ab495b0b6%26e_t_s%3Dfooter%26ut=
+m_source%3D31%26utm_medium%3D2004
+
+--a32996c7eb23d0328a8eb1fdda1cfcc8952233c346b27ddd16f0976b59e6
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-microso=
+ft-com:office:office" xmlns:v=3D"urn:schemas-microsoft-com:vml">
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type"/>
+<meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewpor=
+t"/>
+<meta content=3D"IE=3Dedge" http-equiv=3D"X-UA-Compatible"/>
+<meta name=3D"x-apple-disable-message-reformatting"/>
+<meta content=3D"light dark" name=3D"color-scheme"/>
+<meta content=3D"light dark" name=3D"supported-color-schemes"/>
+<style type=3D"text/css">
+:root{color-scheme:light dark;supported-color-schemes:light dark}.ExternalC=
+lass{width:100%}.ExternalClass,.ExternalClass p,.ExternalClass span,.Extern=
+alClass font,.ExternalClass td,.ExternalClass div{line-height:100%}#Message=
+ViewBody,#MessageWebViewDiv{width:100% !important}body{-webkit-text-size-ad=
+just:none;-ms-text-size-adjust:none}body{margin:0 auto !important;padding:0=
+}table td{border-collapse:collapse}a{text-decoration:none}body,table,td{fon=
+t-family:SF Pro Text,Roboto,Segoe UI,helvetica neue,helvetica,arial,sans-se=
+rif !important}.of{overflow:hidden !important;text-overflow:ellipsis !impor=
+tant}.wwn{word-wrap:normal}.ha{height:auto !important}.wa{width:auto !impor=
+tant}.yahoo_ib_cell{display:inline-block}/*!*/.yahoo_ib_cell{display:table-=
+cell !important}.yahoo_ib_block{display:inline-block;padding:0 8px;vertical=
+-align:top}/*!*/.yahoo_ib_block{display:block !important;padding:0}.i_cente=
+r{background-size:cover;background-position:50%;background-repeat:no-repeat=
+}.oc{display:block !important;height:0;max-height:0;overflow:visible !impor=
+tant}.o_blk{display:block;position:relative;background-color:rgba(0,0,0,0.0=
+3);border-radius:16px;width:100%;height:0}/*!*/.o_blk{opacity:.03;backgroun=
+d-color:#000}.o_txt{display:inline-block;position:relative;opacity:.999;mar=
+gin:8px 0 0 8px;padding:6px;border-radius:100px;background-color:rgba(255,2=
+55,255,0.8)}/*!*/.o_txt{opacity:.8;background-color:#fff}.o_ti{display:inli=
+ne-block;position:relative;opacity:.999;margin-top:8px;margin-left:8px}.o_f=
+_cov{object-fit:cover !important}.d_br16{border-radius:16px !important}.d_b=
+rtl16{border-top-left-radius:16px !important}.d_brtr16{border-top-right-rad=
+ius:16px !important}.d_brbr16{border-bottom-right-radius:16px !important}.d=
+_brbl16{border-bottom-left-radius:16px !important}.d_br24{border-radius:24p=
+x !important}.d_br50p{border-radius:50% !important}.d_wb1{border:1px solid =
+#fff !important}.d_wb2{border:1px solid #e2e2e2 !important}.d_wbr1{border-r=
+ight:1px solid #fff !important}.d_br32{border-radius:32px !important}.pf{fo=
+nt-family:SF Pro Text,Roboto,Segoe UI,helvetica neue,helvetica,arial,sans-s=
+erif !important;text-decoration:none !important}.op_999{opacity:.999 !impor=
+tant}.op_001{opacity:.001 !important}.c_fff{color:#fff !important}.f_s12{fo=
+nt-size:12px}.f_wr{font-weight:normal}.f_wb{font-weight:bold !important}.ta=
+_c{text-align:center !important}.va_c{vertical-align:center !important}.va_=
+m{vertical-align:middle !important}.d_of_v{overflow:visible !important}.d_p=
+l0{padding-left:0 !important}.d_pr0{padding-right:0 !important}.d_pb2{paddi=
+ng-bottom:2px !important}.d_pl4{padding-left:4px !important}.d_pl6{padding-=
+left:6px !important}.d_pt8{padding-top:8px !important}.d_pr8{padding-right:=
+8px !important}.d_pb8{padding-bottom:8px !important}.d_pl8{padding-left:8px=
+ !important}.d_pt16{padding-top:16px !important}.d_pr16{padding-right:16px =
+!important}.d_pb16{padding-bottom:16px !important}.d_pl16{padding-left:16px=
+ !important}.d_pt24{padding-top:24px !important}.d_pr24{padding-right:24px =
+!important}.d_pb24{padding-bottom:24px !important}.d_pl24{padding-left:24px=
+ !important}.d_pt100pc{padding-top:100% !important}.d_h8{height:8px !import=
+ant}.d_h16{height:16px !important}.d_h24{height:24px !important}.d_h32{heig=
+ht:32px !important}.d_h40{height:40px !important}.d_fs12{font-size:12px !im=
+portant}.d_fs14{font-size:14px !important}.d_fs16{font-size:16px !important=
+}.d_fs20{font-size:20px !important}.d_fs28{font-size:28px !important}.d_mb0=
+{Margin-bottom:0 !important}.d_mt8{Margin-top:8px !important}.d_mr8{Margin-=
+right:8px !important}.d_mb8{Margin-bottom:8px !important}.d_ml8{Margin-left=
+:8px !important}.d_ml8{Margin-left:8px !important}.d_mt16{Margin-top:16px !=
+important}.d_mr16{Margin-right:16px !important}.d_mb16{Margin-bottom:16px !=
+important}.d_ml16{Margin-left:16px !important}.d_mb24{Margin-bottom:24px !i=
+mportant}.d_mt42{Margin-top:42px !important}.d_mt189pc{Margin-top:189%}.d_m=
+t279pc{Margin-top:279%}.d_mt317pc{Margin-top:317%}.d_mt500pc{Margin-top:500=
+%}.d_w100pc{width:100% !important}.d_w16{width:16px !important}.d_w24{width=
+:24px !important}.d_w32{width:32px !important}.d_w35{width:35px !important}=
+=2Ed_w40{width:40px !important}.d_w42{wid=
+th:42px !important}.d_w48{width:48px=
+ !important}.d_w60{width:60px !important}.d_w64{width:64px !important}.d_w7=
+8{width:78px !important}.d_w117{width:117px !important}.d_w120{width:120px =
+!important}.d_w152{width:152px !important}.d_w157{width:157px !important}.d=
+_w158{width:158px !important}.d_w162{width:162px !important}.d_w173{width:1=
+73px !important}.d_w180{width:180px !important}.d_w236{width:236px !importa=
+nt}.d_w241{width:241px !important}.d_w242{width:242px !important}.d_w325{wi=
+dth:325px !important}.d_w362{width:362px !important}.d_w370{width:370px !im=
+portant}.d_w456{width:456px !important}.d_w488{width:488px !important}.d_w5=
+20{width:520px !important}.d_w708{width:708px !important}.d_w772{width:772p=
+x !important}.d_max_w78{max-width:78px !important}.d_max_w152{max-width:152=
+px !important}.d_max_w157{max-width:157px !important}.d_max_w158{max-width:=
+158px !important}.d_max_w236{max-width:236px !important}.d_max_w370{max-wid=
+th:370px !important}.d_max_w488{max-width:488px !important}.d_max_w520{max-=
+width:520px !important}.d_max_w772{max-width:772px !important}.d_h0{height:=
+0 !important}.d_max_h0{max-height:0 !important}.d_h64{height:64px !importan=
+t}.d_h78{height:78px !important}.d_h80{height:80px !important}.d_h118{heigh=
+t:118px !important}.d_h120{height:120px !important}.d_h121{height:121px !im=
+portant}.d_h152{height:152px !important}.d_h157{height:157px !important}.d_=
+h162{height:162px !important}.d_h173{height:173px !important}.d_h214{height=
+:214px !important}.d_h217{height:217px !important}.d_h241{height:241px !imp=
+ortant}.d_h325{height:325px !important}.d_h354{height:354px !important}.d_h=
+100pc{height:100% !important}.d_lh12{line-height:12px !important}.d_lh16{li=
+ne-height:16px !important}.d_lh19{line-height:19px !important}.d_lh23{line-=
+height:23px !important}.d_lh24{line-height:24px !important}.d_lh33{line-hei=
+ght:33px !important}.d_lh40{line-height:40px !important}.d_lh64{line-height=
+:64px !important}.d_none{display:none !important}.d_block{display:block !im=
+portant}.d_inline{display:inline !important}.d_inline_block{display:inline-=
+block !important}.d_rel{position:relative !important}.d_3_columns{columns:3=
+ auto !important}.d_2_columns{columns:2 auto !important}.d_3_columns_break{=
+font-size:24px !important}.d_3_column_gap{column-gap:24px !important}@media=
+(max-width:520px){.m_h8{height:8px !important}.m_h12{height:12px !important=
+}.m_h16{height:16px !important}.m_h32{height:32px !important}.m_fs8{font-si=
+ze:8px !important}.m_fs11{font-size:11px !important}.m_fs16{font-size:16px =
+!important}.m_fs20{font-size:20px !important}.m_fs32{font-size:32px !import=
+ant}.m_lh16{line-height:16px !important}.m_lh19{line-height:19px !important=
+}.m_lh20{line-height:20px !important}.m_pt4{padding-top:4px !important}.m_p=
+r4{padding-right:4px !important}.m_pb4{padding-bottom:4px !important}.m_pl4=
+{padding-left:4px !important}.m_pt8{padding-top:8px !important}.m_pr8{paddi=
+ng-right:8px !important}.m_pb8{padding-bottom:8px !important}.m_pl8{padding=
+-left:8px !important}.m_pt12{padding-top:12px !important}.m_pr12{padding-ri=
+ght:12px !important}.m_pb12{padding-bottom:12px !important}.m_pl12{padding-=
+left:12px !important}.m_mt8{Margin-top:8px !important}.m_mr8{Margin-right:8=
+px !important}.m_mb8{Margin-bottom:8px !important}.m_ml8{Margin-left:8px !i=
+mportant}.m_mb16{Margin-bottom:16px !important}.m_pb16{padding-bottom:16px =
+!important}.m_mt4{Margin-top:4px !important}.m_mr4{Margin-right:4px !import=
+ant}.m_mb4{Margin-bottom:4px !important}.m_ml4{Margin-left:4px !important}.=
+m_w12{width:12px !important}.m_w20{width:20px !important}.m_w84{width:84px =
+!important}.m_w236{width:236px !important}.m_w100pc{width:100% !important}.=
+m_max_w96{max-width:96px !important}.m_max_w128{max-width:128px !important}=
+=2Em_none{display:none !important}.m_bloc=
+k{display:block !important}.m_inline=
+{display:inline !important}.m_inline_block{display:inline-block !important}=
+=2Em_2_columns{columns:2 auto !important}=
+=2Em_2_columns_gap{column-gap:8px !imp=
+ortant}.m_2_columns_break{font-size:16px !important}}@media(max-width:359px=
+){.m_s_w49{width:49px !important}.m_s_w72{width:72px !important}.m_s_w73{wi=
+dth:73px !important}.m_s_w96{width:96px !important}.m_s_w97{width:97px !imp=
+ortant}.m_s_w98{width:98px !important}.m_s_w99{width:99px !important}.m_s_w=
+100{width:100px !important}.m_s_w101{width:101px !important}.m_s_w147{width=
+:147px !important}.m_s_w148{width:148px !important}.m_s_w149{width:149px !i=
+mportant}.m_s_w198{width:198px !important}.m_s_w203{width:203px !important}=
+=2Em_s_w288{width:288px !important}.m_s_w=
+298{width:298px !important}.m_s_w299=
+{width:299px !important}.m_s_w300{width:300px !important}.m_s_w302{width:30=
+2px !important}.m_s_w305{width:305px !important}.m_s_w315{width:315px !impo=
+rtant}.m_s_w316{width:316px !important}.m_s_w318{width:318px !important}.m_=
+s_w320{width:320px !important}.m_s_w322{width:322px !important}.m_s_h48{hei=
+ght:48px !important}.m_s_h49{height:49px !important}.m_s_h73{height:73px !i=
+mportant}.m_s_h74{height:74px !important}.m_s_h97{height:97px !important}.m=
+_s_h98{height:98px !important}.m_s_h99{height:99px !important}.m_s_h101{hei=
+ght:101px !important}.m_s_h129{height:129px !important}.m_s_h134{height:134=
+px !important}.m_s_h144{height:144px !important}.m_s_h146{height:146px !imp=
+ortant}.m_s_h148{height:148px !important}.m_s_h198{height:198px !important}=
+=2Em_s_h199{height:199px !important}.m_s_=
+h203{height:203px !important}.m_s_h2=
+22{height:222px !important}.m_s_lh73{line-height:73px !important}.m_s_fs11{=
+font-size:11px !important}.m_s_mt98pc{Margin-top:98%}.m_s_mt153pc{Margin-to=
+p:153%}}@media(min-width:360px) and (max-width:374px){.m_m_w55{width:55px !=
+important}.m_m_w83{width:83px !important}.m_m_w109{width:109px !important}.=
+m_m_w111{width:111px !important}.m_m_w112{width:112px !important}.m_m_w113{=
+width:113px !important}.m_m_w114{width:114px !important}.m_m_w167{width:167=
+px !important}.m_m_w168{width:168px !important}.m_m_w227{width:227px !impor=
+tant}.m_m_w229{width:229px !important}.m_m_w327{width:327px !important}.m_m=
+_w341{width:341px !important}.m_m_w342{width:342px !important}.m_m_w344{wid=
+th:344px !important}.m_m_w357{width:357px !important}.m_m_w358{width:358px =
+!important}.m_m_w360{width:360px !important}.m_m_h55{height:55px !important=
+}.m_m_h56{height:56px !important}.m_m_h84{height:84px !important}.m_m_h111{=
+height:111px !important}.m_m_h113{height:113px !important}.m_m_h149{height:=
+149px !important}.m_m_h153{height:153px !important}.m_m_h163{height:163px !=
+important}.m_m_h167{height:167px !important}.m_m_h168{height:168px !importa=
+nt}.m_m_h227{height:227px !important}.m_m_h229{height:229px !important}.m_m=
+_h252{height:252px !important}.m_m_lh84{line-height:84px !important}.m_m_fs=
+11{font-size:11px !important}.m_m_mt120pc{Margin-top:120%}.m_m_mt182pc{Marg=
+in-top:182%}}@media(min-width:375px) and (max-width:520px){.m_l_w58{width:5=
+8px !important}.m_l_w87{width:87px !important}.m_l_w114{width:114px !import=
+ant}.m_l_w117{width:117px !important}.m_l_w118{width:118px !important}.m_l_=
+w119{width:119px !important}.m_l_w176{width:176px !important}.m_l_w239{widt=
+h:239px !important}.m_l_w342{width:342px !important}.m_l_w359{width:359px !=
+important}.m_l_w360{width:360px !important}.m_l_w375{width:375px !important=
+}.m_l_w376{width:376px !important}.m_l_w380{width:380px !important}.m_l_h58=
+{height:58px !important}.m_l_h59{height:59px !important}.m_l_h88{height:88p=
+x !important}.m_l_h117{height:117px !important}.m_l_h119{height:119px !impo=
+rtant}.m_l_h157{height:157px !important}.m_l_h160{height:160px !important}.=
+m_l_h171{height:171px !important}.m_l_h176{height:176px !important}.m_l_h23=
+9{height:239px !important}.m_l_h264{height:264px !important}.m_l_lh88{line-=
+height:88px !important}.m_l_fs12{font-size:12px !important}.m_l_mt129pc{Mar=
+gin-top:129%}.m_l_mt192pc{Margin-top:192%}}@media(min-width:521px) and (max=
+-width:772px){.d_s_w78{width:78px !important}.d_s_w94{width:94px !important=
+}.d_s_w96{width:96px !important}.d_s_w100{width:100px !important}.d_s_w117{=
+width:117px !important}.d_s_w152{width:152px !important}.d_s_w157{width:157=
+px !important}.d_s_w158{width:158px !important}.d_s_w236{width:236px !impor=
+tant}.d_s_w244{width:244px !important}.d_s_w488{width:488px !important}.d_s=
+_w520{width:520px !important}.d_s_h78{height:78px !important}.d_s_h79{heigh=
+t:79px !important}.d_s_h152{height:152px !important}.d_s_h157{height:157px =
+!important}.d_s_h228{height:228px !important}.d_s_pl16{padding-left:16px !i=
+mportant}.d_s_pr16{padding-right:16px !important}.d_s_mt189pc{Margin-top:18=
+9%}.d_s_none{display:none !important}.d_s_inline{display:inline !important}=
+=2Ed_s_fs14{font-size:14px !important}.d_=
+s_fs16{font-size:16px !important}.d_=
+s_lh20{line-height:20px !important}.d_s_pr4{padding-right:4px !important}.d=
+_s_pl4{padding-left:4px !important}.d_s_pt8{padding-top:8px !important}.d_s=
+_pr8{padding-right:8px !important}.d_s_pb8{padding-bottom:8px !important}.d=
+_s_pl8{padding-left:8px !important}.d_s_mt8{Margin-Top:8px !important}.d_s_=
+mb8{Margin-Bottom:8px !important}}@media(min-width:773px){.d_l_w520{width:5=
+20px !important}.d_l_w772{width:772px !important}.d_l_none{display:none !im=
+portant}.d_l_pl16{padding-left:16px !important}.d_l_pr16{padding-right:16px=
+ !important}}.c_g0{color:#fff !important}.c_g50{color:#fff !important}.c_g1=
+00{color:#efefef !important}.c_g118{color:#767676 !important}.c_g200{color:=
+#8e8e8e !important}.c_g250{color:#767676 !important}.c_g300{color:#111 !imp=
+ortant}.c_g400{color:#000 !important}.c_h002966{color:#002966 !important}.c=
+_h9B0000{color:#9b0000 !important}.c_hA30C4A{color:#a30c4a !important}.c_h0=
+04BA9{color:#004ba9 !important}.c_h0074e8{color:#0074e8 !important}.bgc_g0{=
+background-color:#fff !important}.bgc_g50{background-color:#fff !important}=
+=2Ebgc_g100{background-color:#efefef !imp=
+ortant}.bgc_g200{background-color:#8=
+e8e8e !important}.bgc_g300{background-color:#111 !important}.bgc_g400{backg=
+round-color:#000 !important}@media(prefers-color-scheme:dark){.dm_d_none{di=
+splay:none !important}.dm_d_inline_block{display:inline-block !important}.d=
+m_dbg{background-color:#030303 !important}.dm_df{color:#efefef !important}.=
+dm_ptob{opacity:.8 !important;background-color:#fefefe !important}.dm_ptob_=
+w{opacity:.03 !important;background-color:#000 !important}.dm_ptot{backgrou=
+nd-color:transparent !important;opacity:.999 !important;color:#111 !importa=
+nt}.dm_dbg_g100{background-color:#404040 !important}.dm_b_g100{border:1px s=
+olid #404040 !important}.dm_br_000{border-right:1px solid #030303 !importan=
+t}.dm_b_000{border:1px solid #030303 !important}.dm_c_g0{color:#030303 !imp=
+ortant}.dm_c_g50{color:#212121 !important}.dm_c_g100{color:#404040 !importa=
+nt}.dm_c_g200{color:#ababab !important}.dm_c_g205{color:#cdcdcd !important}=
+=2Edm_c_g250{color:#8e8e8e !important}.dm=
+_c_g300{color:#efefef !important}.dm=
+_c_g400{color:#fff !important}.dm_c_h75BFFF{color:#75bfff !important}.dm_bg=
+c_g0{background-color:#030303 !important}.dm_bgc_g50{background-color:#2121=
+21 !important}.dm_bgc_g100{background-color:#404040 !important}.dm_bgc_g200=
+{background-color:#ababab !important}.dm_bgc_g300{background-color:#efefef =
+!important}.dm_bgc_g400{background-color:#fff !important}.dm_bgc_h0074e8{ba=
+ckground-color:#75bfff !important}.dm_bgc_g400_op80pc{background-color:#fef=
+efe !important;opacity:.8 !important}}
+</style>
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<script type=3D"application/ld+json">
+[
+{
+"@context": "http://schema.org/",
+"@type": "Organization",
+"logo": "https://i.pinimg.com/email/shared/v2_brand/logo_circle_100.png"
+},
+{
+"@context": "http://schema.org/",
+"@type": "EmailMessage",
+"subjectLine": ""
+},
+{
+"@context": "http://schema.org/",
+"@type": "DiscountOffer",
+"description": "",
+"discountCode": "",
+"availabilityStarts": "",
+"availabilityEnds": ""
+},
+{
+"@context": "http://schema.org/",
+"@type": "PromotionCard",
+"image": "https://i.pinimg.com/originals/b1/c5/da/b1c5da568858a0d9183c32403=
+acdee61.jpg"
+}
+]
+</script>
+</head>
+<body><div style=3D"color:transparent;visibility:hidden;opacity:0;font-size=
+:0px;border:0;max-height:1px;width:1px;margin:0px;padding:0px;border-width:=
+0px!important;display:none!important;line-height:0px!important;"><img borde=
+r=3D"0" height=3D"1" src=3D"https://www.pinterest.com/email/open/?pd=3DdGlk=
+PWEyN2Y0NGIxOGZiYzRhYjI5MDc1ZjAzYWI0OTViMGI2JmNpZD1SRUFMVElNRV9VU0VSX0FDVEl=
+PTl9CT0FSRF9SRUNTJnRvX2FkZHI9ZGptZWNtYXJjZWxvMiU0MGdtYWlsLmNvbSZwb3M9dG9wX3=
+BpeGVsJnR5cGU9aHRtbCZzaWQ9OGE1ZTU5ODgwYmE0MDMzNTk2ODRiM2ExMjdiODE2N2Ymc25pZ=
+D00MjQxZDEyZWI5ZmI0ZDVkYjk0OWM4MWI1ZTU2ZjM5ZiZ1aWQ9NTk2MTY0MjA2ODMxNzg0MTUw=
+" width=3D"1"/></div>
+<div style=3D"
+color:#ffffff;display:none;font-size:1px;line-height:1px;max-height:0px;max=
+-width:0px;
+opacity:0;overflow:hidden;mso-hide:all">
+hifi Turntables Amplificador Som =D0=93=D1=80=D0=BE=D0=BC=D0=BA=D0=BE=D0=B3=
+=D0=BE=D0=B2=D0=BE=D1=80=D0=B8=D1=82=D0=B5=D0=BB=D1=8C
+</div>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td>
+<div class=3D"d_block m_none" style=3D"height:16px;font-size:16px;line-heig=
+ht:16px;display:none">&nbsp;</div>
+<!--[if !mso]><!-->
+<div class=3D"d_none m_block" style=3D"height:8px;font-size:8px;line-height=
+:8px">&nbsp;</div>
+<!--<![endif]-->
+</td>
+</tr>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td align=3D"center">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg d_w772 d_max_w772 m_l_w380 m_m_w344 m_s_w305" style=3D"border=
+-collapse:collapse">
+<tr class=3D"dm_bgc_g400" height=3D"60" style=3D"background-color:'transpar=
+ent';">
+<td align=3D"center" display=3D"block" height=3D"60" style=3D"vertical-alig=
+n:middle;">
+<!--[if mso]>
+<table width=3D"772" align=3D"center" border=3D"0"
+cellpadding=3D"0" cellspacing=3D"0" style=3D"table-layout:fixed">
+<tr>
+<td align=3D"center">
+<![endif]-->
+<div>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<div align=3D"center">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252F%253Futm_campaign%253Druadboards%2526e_t%253Da27f44b18fbc4ab2907=
+5f03ab495b0b6%2526e_t_s%253Dheader_pinterest%2526utm_source%253D31%2526utm_=
+medium%253D2004" title=3D"Visitar o Pinterest">
+<img border=3D"0" height=3D"32" src=3D"https://i.pinimg.com/email/shared/em=
+ail/logo_circle_full_100.png" style=3D"
+display:block;
+width:32px;
+height:32px;
+outline:none;
+border:0;
+border-radius:50px;
+-ms-interpolation-mode:bicubic" width=3D"32"/>
+</a>
+</div>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr class=3D"dm_bgc_g400" style=3D"
+vertical-align:middle;
+background-color:'transparent';
+">
+<td align=3D"center" colspan=3D"3" display=3D"block">
+<!--[if mso]>
+<table
+width=3D"488"
+align=3D"center"
+border=3D"0"
+cellpadding=3D"0"
+cellspacing=3D"0"
+style=3D"table-layout:fixed">
+<tr>
+<td align=3D"center">
+<![endif]-->
+<div class=3D"d_w772 d_lh d_max_w772 m_l_w359 m_m_w344 m_s_w305">
+<span class=3D"dm_c_g300 d_lh23 d_fs20 m_fs20 m_lh20 m_pl8 m_pr8 d_pl0 d_pr=
+0" style=3D"
+display:inline;
+padding:0px 24px;
+font-size: 20px;
+font-family:SF Pro Text,Roboto,Segoe UI,helvetica neue,helvetica,arial,sans=
+-serif;
+font-weight:500;
+color: #111111;
+text-decoration:none;
+line-height:23px;">
+Encontramos novas pastas para voc=C3=AA
+</span>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr class=3D"dm_bgc_g400" style=3D"background-color:'transparent';">
+<td colspan=3D"3" height=3D"0"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td>
+<div style=3D"height:16px;font-size:16px;line-height:16px">&nbsp;</div>
+</td>
+</tr>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td align=3D"center">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg d_pr8 d_pl8 m_pr4 m_pl4" style=3D"padding: 0 4px;border-colla=
+pse:collapse">
+<tr>
+<td class=3D"d_pr8 d_pl8 m_pr4 m_pl4" style=3D"padding:0 8px 24px 8px" vali=
+gn=3D"top">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"d_w362 d_s_w236 m_l_w176 m_m_w167 m_s_w149" style=3D"font-size:0;bor=
+der-collapse:collapse" width=3D"362">
+<tr>
+<td rowspan=3D"2" style=3D"border-right:1px solid transparent" valign=3D"to=
+p">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wa ha" sty=
+le=3D"table-layout:fixed;font-size:0;border-collapse:collapse" width=3D"241=
+">
+<tr style=3D"border-radius:16px 0 0 16px">
+<td align=3D"center">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fvkarchevsky%252Fhifi%252F%253Futm_campaign%253Druadboards%2526e_=
+t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium=
+%253D2004%2526utm_content%253D599682575321044177%2526utm_term%253D1" title=
+=3D"Explore a pasta">
+<!--[if mso]>
+<v:image xmlns:v=3D"urn:schemas-microsoft-com:vml" cropleft=3D"0.125" cropr=
+ight=3D"0.125" src=3D"https://i.pinimg.com/400x300/b1/c5/da/b1c5da568858a0d=
+9183c32403acdee61.jpg" style=3D"
+width:241px;
+height:241px;
+border:0" />
+<![endif]-->
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:16px 0 0 16px">
+<div class=3D"i_center d_w241 d_s_w157 m_l_w117 m_m_w111 m_s_w99 d_h241 d_s=
+_h157 m_l_h117 m_m_h111 m_s_h99" style=3D"background-image:url('https://i.p=
+inimg.com/400x300/b1/c5/da/b1c5da568858a0d9183c32403acdee61.jpg');
+display:block;
+background-color:#efefef;
+border-radius:16px 0 0 16px;
+height:241px;
+width:241px;
+opacity:0.97">
+<img class=3D"d_none" height=3D"241" src=3D"https://i.pinimg.com/150x150/b1=
+/c5/da/b1c5da568858a0d9183c32403acdee61.jpg" style=3D"display:block;
+border-radius:16px 0 0 16px;
+opacity:0.97" width=3D"241"/>
+</div>
+</div>
+<!--<![endif]-->
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td style=3D"border-bottom:1px solid transparent" valign=3D"top">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fvkarchevsky%252Fhifi%252F%253Futm_campaign%253Druadboards%2526e_=
+t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium=
+%253D2004%2526utm_content%253D599682575321044177%2526utm_term%253D1" title=
+=3D"Explore a pasta">
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:0 16px 0 0">
+<!--<![endif]-->
+<img border=3D"0" class=3D"d_w120 d_s_w78 m_l_w58 m_m_w55 m_s_w49 d_h120 d_=
+s_h78 m_l_h58 m_m_h55 m_s_h49" height=3D"120" src=3D"https://i.pinimg.com/1=
+50x150/ce/12/67/ce1267922d139721fda48b67ef8141c5.jpg" style=3D"display:bloc=
+k;
+width:120px;
+height:120px;
+border-radius:0 16px 0 0;
+-ms-interpolation-mode:bicubic;
+text-decoration:none;
+outline:none;
+border:0;
+background-color:#efefef;
+opacity:0.97" width=3D"120"/>
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fvkarchevsky%252Fhifi%252F%253Futm_campaign%253Druadboards%2526e_=
+t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium=
+%253D2004%2526utm_content%253D599682575321044177%2526utm_term%253D1" title=
+=3D"Explore a pasta">
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:0 0 16px 0">
+<!--<![endif]-->
+<img border=3D"0" class=3D"d_w120 d_s_w78 m_l_w58 m_m_w55 m_s_w49 d_h120 d_=
+s_h78 m_l_h58 m_m_h55 m_s_h49" height=3D"120" src=3D"https://i.pinimg.com/1=
+50x150/64/34/83/643483daa5430979951091a5ab454003.jpg" style=3D"display:bloc=
+k;
+width:120px;
+height:120px;
+border-radius:0 0 16px 0;
+-ms-interpolation-mode:bicubic;
+text-decoration:none;
+outline:none;
+border:0;
+background-color:#efefef;
+opacity:0.97" width=3D"120"/>
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"left" colspan=3D"2" style=3D"font-family:SF Pro Text,Roboto,Se=
+goe UI,helvetica neue,helvetica,arial,sans-serif">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fvkarchevsky%252Fhifi%252F%253Futm_campaign%253Druadboards%2526e_=
+t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium=
+%253D2004%2526utm_content%253D599682575321044177%2526utm_term%253D1" title=
+=3D"Explore a pasta">
+<div class=3D"d_w362 d_s_w236 m_l_w176 m_m_w167 m_s_w149">
+<div class=3D"pf" style=3D"color:#111111;Margin:8px 8px 0 8px">
+<div class=3D"dm_df of wwn m_fs16 m_lh19" style=3D"font-size:20px;line-heig=
+ht:23px;font-weight:bold">
+hifi
+</div>
+<div class=3D"dm_df of" style=3D"font-size:12px;line-height:14px;Margin-top=
+:4px">
+1.002 Pins
+</div>
+</div>
+</div>
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"d_pr8 d_pl8 m_pr4 m_pl4" style=3D"padding:0 8px 24px 8px" vali=
+gn=3D"top">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"d_w362 d_s_w236 m_l_w176 m_m_w167 m_s_w149" style=3D"font-size:0;bor=
+der-collapse:collapse" width=3D"362">
+<tr>
+<td rowspan=3D"2" style=3D"border-right:1px solid transparent" valign=3D"to=
+p">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wa ha" sty=
+le=3D"table-layout:fixed;font-size:0;border-collapse:collapse" width=3D"241=
+">
+<tr style=3D"border-radius:16px 0 0 16px">
+<td align=3D"center">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fdeki70sd%252Fturntables%252F%253Futm_campaign%253Druadboards%252=
+6e_t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_med=
+ium%253D2004%2526utm_content%253D632122566388227951%2526utm_term%253D2" tit=
+le=3D"Explore a pasta">
+<!--[if mso]>
+<v:image xmlns:v=3D"urn:schemas-microsoft-com:vml" cropleft=3D"0.125" cropr=
+ight=3D"0.125" src=3D"https://i.pinimg.com/400x300/0e/9c/1e/0e9c1e1210485f0=
+9cce5f3b92ffd5591.jpg" style=3D"
+width:241px;
+height:241px;
+border:0" />
+<![endif]-->
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:16px 0 0 16px">
+<div class=3D"i_center d_w241 d_s_w157 m_l_w117 m_m_w111 m_s_w99 d_h241 d_s=
+_h157 m_l_h117 m_m_h111 m_s_h99" style=3D"background-image:url('https://i.p=
+inimg.com/400x300/0e/9c/1e/0e9c1e1210485f09cce5f3b92ffd5591.jpg');
+display:block;
+background-color:#efefef;
+border-radius:16px 0 0 16px;
+height:241px;
+width:241px;
+opacity:0.97">
+<img class=3D"d_none" height=3D"241" src=3D"https://i.pinimg.com/150x150/0e=
+/9c/1e/0e9c1e1210485f09cce5f3b92ffd5591.jpg" style=3D"display:block;
+border-radius:16px 0 0 16px;
+opacity:0.97" width=3D"241"/>
+</div>
+</div>
+<!--<![endif]-->
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td style=3D"border-bottom:1px solid transparent" valign=3D"top">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fdeki70sd%252Fturntables%252F%253Futm_campaign%253Druadboards%252=
+6e_t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_med=
+ium%253D2004%2526utm_content%253D632122566388227951%2526utm_term%253D2" tit=
+le=3D"Explore a pasta">
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:0 16px 0 0">
+<!--<![endif]-->
+<img border=3D"0" class=3D"d_w120 d_s_w78 m_l_w58 m_m_w55 m_s_w49 d_h120 d_=
+s_h78 m_l_h58 m_m_h55 m_s_h49" height=3D"120" src=3D"https://i.pinimg.com/1=
+50x150/7c/3f/84/7c3f84cb08be026eebab69d0197bb263.jpg" style=3D"display:bloc=
+k;
+width:120px;
+height:120px;
+border-radius:0 16px 0 0;
+-ms-interpolation-mode:bicubic;
+text-decoration:none;
+outline:none;
+border:0;
+background-color:#efefef;
+opacity:0.97" width=3D"120"/>
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fdeki70sd%252Fturntables%252F%253Futm_campaign%253Druadboards%252=
+6e_t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_med=
+ium%253D2004%2526utm_content%253D632122566388227951%2526utm_term%253D2" tit=
+le=3D"Explore a pasta">
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:0 0 16px 0">
+<!--<![endif]-->
+<img border=3D"0" class=3D"d_w120 d_s_w78 m_l_w58 m_m_w55 m_s_w49 d_h120 d_=
+s_h78 m_l_h58 m_m_h55 m_s_h49" height=3D"120" src=3D"https://i.pinimg.com/1=
+50x150/33/99/a8/3399a8312daeac8ca75f9de71de96321.jpg" style=3D"display:bloc=
+k;
+width:120px;
+height:120px;
+border-radius:0 0 16px 0;
+-ms-interpolation-mode:bicubic;
+text-decoration:none;
+outline:none;
+border:0;
+background-color:#efefef;
+opacity:0.97" width=3D"120"/>
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"left" colspan=3D"2" style=3D"font-family:SF Pro Text,Roboto,Se=
+goe UI,helvetica neue,helvetica,arial,sans-serif">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fdeki70sd%252Fturntables%252F%253Futm_campaign%253Druadboards%252=
+6e_t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_med=
+ium%253D2004%2526utm_content%253D632122566388227951%2526utm_term%253D2" tit=
+le=3D"Explore a pasta">
+<div class=3D"d_w362 d_s_w236 m_l_w176 m_m_w167 m_s_w149">
+<div class=3D"pf" style=3D"color:#111111;Margin:8px 8px 0 8px">
+<div class=3D"dm_df of wwn m_fs16 m_lh19" style=3D"font-size:20px;line-heig=
+ht:23px;font-weight:bold">
+Turntables
+</div>
+<div class=3D"dm_df of" style=3D"font-size:12px;line-height:14px;Margin-top=
+:4px">
+496 Pins
+</div>
+</div>
+</div>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"d_pr8 d_pl8 m_pr4 m_pl4" style=3D"padding:0 8px 24px 8px" vali=
+gn=3D"top">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"d_w362 d_s_w236 m_l_w176 m_m_w167 m_s_w149" style=3D"font-size:0;bor=
+der-collapse:collapse" width=3D"362">
+<tr>
+<td rowspan=3D"2" style=3D"border-right:1px solid transparent" valign=3D"to=
+p">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wa ha" sty=
+le=3D"table-layout:fixed;font-size:0;border-collapse:collapse" width=3D"241=
+">
+<tr style=3D"border-radius:16px 0 0 16px">
+<td align=3D"center">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fjaimcolv%252Famplificador%252F%253Futm_campaign%253Druadboards%2=
+526e_t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_m=
+edium%253D2004%2526utm_content%253D676103031499139956%2526utm_term%253D3" t=
+itle=3D"Explore a pasta">
+<!--[if mso]>
+<v:image xmlns:v=3D"urn:schemas-microsoft-com:vml" cropleft=3D"0.125" cropr=
+ight=3D"0.125" src=3D"https://i.pinimg.com/400x300/b1/d3/8b/b1d38b7838ec853=
+1f0ad001d50a924d9.jpg" style=3D"
+width:241px;
+height:241px;
+border:0" />
+<![endif]-->
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:16px 0 0 16px">
+<div class=3D"i_center d_w241 d_s_w157 m_l_w117 m_m_w111 m_s_w99 d_h241 d_s=
+_h157 m_l_h117 m_m_h111 m_s_h99" style=3D"background-image:url('https://i.p=
+inimg.com/400x300/b1/d3/8b/b1d38b7838ec8531f0ad001d50a924d9.jpg');
+display:block;
+background-color:#efefef;
+border-radius:16px 0 0 16px;
+height:241px;
+width:241px;
+opacity:0.97">
+<img class=3D"d_none" height=3D"241" src=3D"https://i.pinimg.com/150x150/b1=
+/d3/8b/b1d38b7838ec8531f0ad001d50a924d9.jpg" style=3D"display:block;
+border-radius:16px 0 0 16px;
+opacity:0.97" width=3D"241"/>
+</div>
+</div>
+<!--<![endif]-->
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td style=3D"border-bottom:1px solid transparent" valign=3D"top">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fjaimcolv%252Famplificador%252F%253Futm_campaign%253Druadboards%2=
+526e_t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_m=
+edium%253D2004%2526utm_content%253D676103031499139956%2526utm_term%253D3" t=
+itle=3D"Explore a pasta">
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:0 16px 0 0">
+<!--<![endif]-->
+<img border=3D"0" class=3D"d_w120 d_s_w78 m_l_w58 m_m_w55 m_s_w49 d_h120 d_=
+s_h78 m_l_h58 m_m_h55 m_s_h49" height=3D"120" src=3D"https://i.pinimg.com/1=
+50x150/17/8f/e5/178fe57bf337a84906ab89c11eb6f58a.jpg" style=3D"display:bloc=
+k;
+width:120px;
+height:120px;
+border-radius:0 16px 0 0;
+-ms-interpolation-mode:bicubic;
+text-decoration:none;
+outline:none;
+border:0;
+background-color:#efefef;
+opacity:0.97" width=3D"120"/>
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fjaimcolv%252Famplificador%252F%253Futm_campaign%253Druadboards%2=
+526e_t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_m=
+edium%253D2004%2526utm_content%253D676103031499139956%2526utm_term%253D3" t=
+itle=3D"Explore a pasta">
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:0 0 16px 0">
+<!--<![endif]-->
+<img border=3D"0" class=3D"d_w120 d_s_w78 m_l_w58 m_m_w55 m_s_w49 d_h120 d_=
+s_h78 m_l_h58 m_m_h55 m_s_h49" height=3D"120" src=3D"https://i.pinimg.com/1=
+50x150/ae/3f/67/ae3f6757baa2f5bb9a410121b0575bf2.jpg" style=3D"display:bloc=
+k;
+width:120px;
+height:120px;
+border-radius:0 0 16px 0;
+-ms-interpolation-mode:bicubic;
+text-decoration:none;
+outline:none;
+border:0;
+background-color:#efefef;
+opacity:0.97" width=3D"120"/>
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"left" colspan=3D"2" style=3D"font-family:SF Pro Text,Roboto,Se=
+goe UI,helvetica neue,helvetica,arial,sans-serif">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fjaimcolv%252Famplificador%252F%253Futm_campaign%253Druadboards%2=
+526e_t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_m=
+edium%253D2004%2526utm_content%253D676103031499139956%2526utm_term%253D3" t=
+itle=3D"Explore a pasta">
+<div class=3D"d_w362 d_s_w236 m_l_w176 m_m_w167 m_s_w149">
+<div class=3D"pf" style=3D"color:#111111;Margin:8px 8px 0 8px">
+<div class=3D"dm_df of wwn m_fs16 m_lh19" style=3D"font-size:20px;line-heig=
+ht:23px;font-weight:bold">
+Amplificador
+</div>
+<div class=3D"dm_df of" style=3D"font-size:12px;line-height:14px;Margin-top=
+:4px">
+21 Pins
+</div>
+</div>
+</div>
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"d_pr8 d_pl8 m_pr4 m_pl4" style=3D"padding:0 8px 24px 8px" vali=
+gn=3D"top">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"d_w362 d_s_w236 m_l_w176 m_m_w167 m_s_w149" style=3D"font-size:0;bor=
+der-collapse:collapse" width=3D"362">
+<tr>
+<td rowspan=3D"2" style=3D"border-right:1px solid transparent" valign=3D"to=
+p">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wa ha" sty=
+le=3D"table-layout:fixed;font-size:0;border-collapse:collapse" width=3D"241=
+">
+<tr style=3D"border-radius:16px 0 0 16px">
+<td align=3D"center">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fgm836%252Fsom%252F%253Futm_campaign%253Druadboards%2526e_t%253Da=
+27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium%253D20=
+04%2526utm_content%253D791718878182091467%2526utm_term%253D4" title=3D"Expl=
+ore a pasta">
+<!--[if mso]>
+<v:image xmlns:v=3D"urn:schemas-microsoft-com:vml" cropleft=3D"0.125" cropr=
+ight=3D"0.125" src=3D"https://i.pinimg.com/400x300/4d/c4/db/4dc4db0132866dd=
+1a5854ea71d6374b1.jpg" style=3D"
+width:241px;
+height:241px;
+border:0" />
+<![endif]-->
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:16px 0 0 16px">
+<div class=3D"i_center d_w241 d_s_w157 m_l_w117 m_m_w111 m_s_w99 d_h241 d_s=
+_h157 m_l_h117 m_m_h111 m_s_h99" style=3D"background-image:url('https://i.p=
+inimg.com/400x300/4d/c4/db/4dc4db0132866dd1a5854ea71d6374b1.jpg');
+display:block;
+background-color:#efefef;
+border-radius:16px 0 0 16px;
+height:241px;
+width:241px;
+opacity:0.97">
+<img class=3D"d_none" height=3D"241" src=3D"https://i.pinimg.com/150x150/4d=
+/c4/db/4dc4db0132866dd1a5854ea71d6374b1.jpg" style=3D"display:block;
+border-radius:16px 0 0 16px;
+opacity:0.97" width=3D"241"/>
+</div>
+</div>
+<!--<![endif]-->
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td style=3D"border-bottom:1px solid transparent" valign=3D"top">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fgm836%252Fsom%252F%253Futm_campaign%253Druadboards%2526e_t%253Da=
+27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium%253D20=
+04%2526utm_content%253D791718878182091467%2526utm_term%253D4" title=3D"Expl=
+ore a pasta">
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:0 16px 0 0">
+<!--<![endif]-->
+<img border=3D"0" class=3D"d_w120 d_s_w78 m_l_w58 m_m_w55 m_s_w49 d_h120 d_=
+s_h78 m_l_h58 m_m_h55 m_s_h49" height=3D"120" src=3D"https://i.pinimg.com/1=
+50x150/c2/c1/47/c2c147930566552e2b8858a4e2fa3c14.jpg" style=3D"display:bloc=
+k;
+width:120px;
+height:120px;
+border-radius:0 16px 0 0;
+-ms-interpolation-mode:bicubic;
+text-decoration:none;
+outline:none;
+border:0;
+background-color:#efefef;
+opacity:0.97" width=3D"120"/>
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fgm836%252Fsom%252F%253Futm_campaign%253Druadboards%2526e_t%253Da=
+27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium%253D20=
+04%2526utm_content%253D791718878182091467%2526utm_term%253D4" title=3D"Expl=
+ore a pasta">
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:0 0 16px 0">
+<!--<![endif]-->
+<img border=3D"0" class=3D"d_w120 d_s_w78 m_l_w58 m_m_w55 m_s_w49 d_h120 d_=
+s_h78 m_l_h58 m_m_h55 m_s_h49" height=3D"120" src=3D"https://i.pinimg.com/1=
+50x150/da/7c/4b/da7c4bce4bba183c81fcbca39d9f05b9.jpg" style=3D"display:bloc=
+k;
+width:120px;
+height:120px;
+border-radius:0 0 16px 0;
+-ms-interpolation-mode:bicubic;
+text-decoration:none;
+outline:none;
+border:0;
+background-color:#efefef;
+opacity:0.97" width=3D"120"/>
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"left" colspan=3D"2" style=3D"font-family:SF Pro Text,Roboto,Se=
+goe UI,helvetica neue,helvetica,arial,sans-serif">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fgm836%252Fsom%252F%253Futm_campaign%253Druadboards%2526e_t%253Da=
+27f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium%253D20=
+04%2526utm_content%253D791718878182091467%2526utm_term%253D4" title=3D"Expl=
+ore a pasta">
+<div class=3D"d_w362 d_s_w236 m_l_w176 m_m_w167 m_s_w149">
+<div class=3D"pf" style=3D"color:#111111;Margin:8px 8px 0 8px">
+<div class=3D"dm_df of wwn m_fs16 m_lh19" style=3D"font-size:20px;line-heig=
+ht:23px;font-weight:bold">
+Som
+</div>
+<div class=3D"dm_df of" style=3D"font-size:12px;line-height:14px;Margin-top=
+:4px">
+161 Pins =C2=B7 4 subpastas
+</div>
+</div>
+</div>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"d_pr8 d_pl8 m_pr4 m_pl4" style=3D"padding:0 8px" valign=3D"top=
+">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"d_w362 d_s_w236 m_l_w176 m_m_w167 m_s_w149" style=3D"font-size:0;bor=
+der-collapse:collapse" width=3D"362">
+<tr>
+<td rowspan=3D"2" style=3D"border-right:1px solid transparent" valign=3D"to=
+p">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wa ha" sty=
+le=3D"table-layout:fixed;font-size:0;border-collapse:collapse" width=3D"241=
+">
+<tr style=3D"border-radius:16px 0 0 16px">
+<td align=3D"center">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fvisal262%252F%2525D0%2525B3%2525D1%252580%2525D0%2525BE%2525D0%2=
+525BC%2525D0%2525BA%2525D0%2525BE%2525D0%2525B3%2525D0%2525BE%2525D0%2525B2=
+%2525D0%2525BE%2525D1%252580%2525D0%2525B8%2525D1%252582%2525D0%2525B5%2525=
+D0%2525BB%2525D1%25258C%252F%253Futm_campaign%253Druadboards%2526e_t%253Da2=
+7f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium%253D200=
+4%2526utm_content%253D880242758357455549%2526utm_term%253D5" title=3D"Explo=
+re a pasta">
+<!--[if mso]>
+<v:image xmlns:v=3D"urn:schemas-microsoft-com:vml" cropleft=3D"0.125" cropr=
+ight=3D"0.125" src=3D"https://i.pinimg.com/400x300/81/5f/bd/815fbdd6dde170c=
+c58c75cb5cf1adb3a.jpg" style=3D"
+width:241px;
+height:241px;
+border:0" />
+<![endif]-->
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:16px 0 0 16px">
+<div class=3D"i_center d_w241 d_s_w157 m_l_w117 m_m_w111 m_s_w99 d_h241 d_s=
+_h157 m_l_h117 m_m_h111 m_s_h99" style=3D"background-image:url('https://i.p=
+inimg.com/400x300/81/5f/bd/815fbdd6dde170cc58c75cb5cf1adb3a.jpg');
+display:block;
+background-color:#efefef;
+border-radius:16px 0 0 16px;
+height:241px;
+width:241px;
+opacity:0.97">
+<img class=3D"d_none" height=3D"241" src=3D"https://i.pinimg.com/150x150/81=
+/5f/bd/815fbdd6dde170cc58c75cb5cf1adb3a.jpg" style=3D"display:block;
+border-radius:16px 0 0 16px;
+opacity:0.97" width=3D"241"/>
+</div>
+</div>
+<!--<![endif]-->
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td style=3D"border-bottom:1px solid transparent" valign=3D"top">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fvisal262%252F%2525D0%2525B3%2525D1%252580%2525D0%2525BE%2525D0%2=
+525BC%2525D0%2525BA%2525D0%2525BE%2525D0%2525B3%2525D0%2525BE%2525D0%2525B2=
+%2525D0%2525BE%2525D1%252580%2525D0%2525B8%2525D1%252582%2525D0%2525B5%2525=
+D0%2525BB%2525D1%25258C%252F%253Futm_campaign%253Druadboards%2526e_t%253Da2=
+7f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium%253D200=
+4%2526utm_content%253D880242758357455549%2526utm_term%253D5" title=3D"Explo=
+re a pasta">
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:0 16px 0 0">
+<!--<![endif]-->
+<img border=3D"0" class=3D"d_w120 d_s_w78 m_l_w58 m_m_w55 m_s_w49 d_h120 d_=
+s_h78 m_l_h58 m_m_h55 m_s_h49" height=3D"120" src=3D"https://i.pinimg.com/1=
+50x150/a4/5c/a8/a45ca87e1469271d5ad2fa7b166fde2d.jpg" style=3D"display:bloc=
+k;
+width:120px;
+height:120px;
+border-radius:0 16px 0 0;
+-ms-interpolation-mode:bicubic;
+text-decoration:none;
+outline:none;
+border:0;
+background-color:#efefef;
+opacity:0.97" width=3D"120"/>
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fvisal262%252F%2525D0%2525B3%2525D1%252580%2525D0%2525BE%2525D0%2=
+525BC%2525D0%2525BA%2525D0%2525BE%2525D0%2525B3%2525D0%2525BE%2525D0%2525B2=
+%2525D0%2525BE%2525D1%252580%2525D0%2525B8%2525D1%252582%2525D0%2525B5%2525=
+D0%2525BB%2525D1%25258C%252F%253Futm_campaign%253Druadboards%2526e_t%253Da2=
+7f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium%253D200=
+4%2526utm_content%253D880242758357455549%2526utm_term%253D5" title=3D"Explo=
+re a pasta">
+<!--[if !mso]><!-->
+<div style=3D"background-color:#111111;border-radius:0 0 16px 0">
+<!--<![endif]-->
+<img border=3D"0" class=3D"d_w120 d_s_w78 m_l_w58 m_m_w55 m_s_w49 d_h120 d_=
+s_h78 m_l_h58 m_m_h55 m_s_h49" height=3D"120" src=3D"https://i.pinimg.com/1=
+50x150/7b/be/71/7bbe712ac2b8d87dce51d0351f848b6f.jpg" style=3D"display:bloc=
+k;
+width:120px;
+height:120px;
+border-radius:0 0 16px 0;
+-ms-interpolation-mode:bicubic;
+text-decoration:none;
+outline:none;
+border:0;
+background-color:#efefef;
+opacity:0.97" width=3D"120"/>
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"left" colspan=3D"2" style=3D"font-family:SF Pro Text,Roboto,Se=
+goe UI,helvetica neue,helvetica,arial,sans-serif">
+<a href=3D"https://www.pinterest.com/email/click/?user_id=3DNTk2MTY0MjA2ODM=
+xNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiNDk1YjBiNiZjPVJFQUxU=
+SU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwMzM1OTY4NGIzYTEyN2I=
+4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp;target=3Dhttps%3A=
+%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DNTk2MTY0MjA2ODM=
+xNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBmv%252B5Bg7iEgr7zkKw%=
+252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0uzKmVYeq0I8GjjYVdqH5=
+Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2LdKYGSFSxcJM%253D%26n=
+ext%3D%252Fvisal262%252F%2525D0%2525B3%2525D1%252580%2525D0%2525BE%2525D0%2=
+525BC%2525D0%2525BA%2525D0%2525BE%2525D0%2525B3%2525D0%2525BE%2525D0%2525B2=
+%2525D0%2525BE%2525D1%252580%2525D0%2525B8%2525D1%252582%2525D0%2525B5%2525=
+D0%2525BB%2525D1%25258C%252F%253Futm_campaign%253Druadboards%2526e_t%253Da2=
+7f44b18fbc4ab29075f03ab495b0b6%2526utm_source%253D31%2526utm_medium%253D200=
+4%2526utm_content%253D880242758357455549%2526utm_term%253D5" title=3D"Explo=
+re a pasta">
+<div class=3D"d_w362 d_s_w236 m_l_w176 m_m_w167 m_s_w149">
+<div class=3D"pf" style=3D"color:#111111;Margin:8px 8px 0 8px">
+<div class=3D"dm_df of wwn m_fs16 m_lh19" style=3D"font-size:20px;line-heig=
+ht:23px;font-weight:bold">
+=D0=93=D1=80=D0=BE=D0=BC=D0=BA=D0=BE=D0=B3=D0=BE=D0=B2=D0=BE=D1=80=D0=B8=D1=
+=82=D0=B5=D0=BB=D1=8C
+</div>
+<div class=3D"dm_df of" style=3D"font-size:12px;line-height:14px;Margin-top=
+:4px">
+346 Pins
+</div>
+</div>
+</div>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td>
+<div style=3D"height:24px;font-size:24px;line-height:24px">&nbsp;</div>
+</td>
+</tr>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td align=3D"center">
+<div class=3D"d_w488 d_max_w488 m_l_w359 m_m_w344 m_s_w305">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg">
+<tr>
+<td align=3D"center" bgcolor=3D"#e60023" class=3D"" style=3D"border-radius:=
+ 24px" valign=3D"top">
+<a class=3D"pf dm_df " href=3D"https://www.pinterest.com/email/click/?user_=
+id=3DNTk2MTY0MjA2ODMxNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2Fi=
+NDk1YjBiNiZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQ=
+wMzM1OTY4NGIzYTEyN2I4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&a=
+mp;target=3Dhttps%3A%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_=
+id%3DNTk2MTY0MjA2ODMxNzg0MTUw%26od%3D9SivokXgPYRLqkDlXsrWwCMiJzs4Bw7GvAOuBm=
+v%252B5Bg7iEgr7zkKw%252FfgKGktuuL5HKf%252BUpDMuZ5Pvh7kbBcbrMdg0fWDxnQBb2Js0=
+uzKmVYeq0I8GjjYVdqH5Se5qlrHM2ZmVqB6Pdq%252FnNalQ%252FVQ%252FADFL4vo%252FC2L=
+dKYGSFSxcJM%253D%26next%3D%252Fnews_hub%252F5288437127711873325%252F%253Fut=
+m_campaign%253Druadboards%2526e_t%253Da27f44b18fbc4ab29075f03ab495b0b6%2526=
+e_t_s%253Dcta%2526utm_source%253D31%2526utm_medium%253D2004" style=3D"font-=
+family: SF Pro Text,Roboto,Segoe UI,helvetica neue,helvetica,arial,sans-ser=
+if;
+border: 1px solid #e60023;
+border-radius: 24px;
+padding: 14.5px 16px;
+display: inline-block;
+font-size: 16px;
+font-weight: bold;
+line-height: 17px;
+color: #ffffff;
+text-decoration: none;
+box-sizing: border-box;">
+Ver mais pastas
+</a>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td>
+<div style=3D"height:32px;font-size:32px;line-height:32px">&nbsp;</div>
+</td>
+</tr>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td align=3D"center" class=3D"dm_dbg m_pl8 m_pr8 d_s_pl16 d_s_pr16 d_l_pl16=
+ d_l_pr16">
+<!--[if mso]>
+<table
+width=3D"488"
+align=3D"center"
+border=3D"0" cellpadding=3D"0"
+cellspacing=3D"0"
+style=3D"table-layout:fixed">
+<tr>
+<td align=3D"center" >
+<![endif]-->
+<div class=3D"d_w488 d_max_w488 m_l_w359 m_m_w344 m_s_w299 " style=3D"text-=
+align:center;">
+<span class=3D" d_fs16 d_lh19 c_g300 dm_dbg dm_c_g300 d_pl0 d_pr0" style=3D=
+"
+display:inline-block;
+font-size: 16px;
+line-height: 19px;
+padding: 0 8px;
+font-family:SF Pro Text,Roboto,Segoe UI,helvetica neue,helvetica,arial,sans=
+-serif;
+color:#111111;
+text-align:center;
+text-decoration:none">
+Com base na sua atividade
+</span>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td>
+<div style=3D"height:32px;font-size:32px;line-height:32px">&nbsp;</div>
+</td>
+</tr>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td>
+<div style=3D"Margin:0 auto">
+<div style=3D"text-align:center;font-size:12px;line-height:24px;font-weight=
+:bold;
+font-family: SF Pro Text,Roboto,Segoe UI,helvetica neue,helvetica,arial,san=
+s-serif;">
+<span class=3D"m_block d_inline_block" style=3D"display:block;vertical-alig=
+n:center">
+<a class=3D"dm_df" href=3D"https://www.pinterest.com/email/click/?user_id=
+=3DNTk2MTY0MjA2ODMxNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiND=
+k1YjBiNiZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwM=
+zM1OTY4NGIzYTEyN2I4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp=
+;target=3Dhttps%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fhelp%2F%3Fsource%3Demai=
+l_footer%26utm_campaign%3Druadboards%26e_t%3Da27f44b18fbc4ab29075f03ab495b0=
+b6%26e_t_s%3Dfooter%26utm_source%3D31%26utm_medium%3D2004" style=3D"color: =
+#333333;text-decoration: none" title=3D"Encontre respostas na Central de Aj=
+uda">Central de Ajuda</a><!--
+--><span class=3D"dm_df" style=3D"color:#333333;white-space:pre">&nbsp;&nbs=
+p;=C2=B7&nbsp;&nbsp;</span><!--
+--><a class=3D"dm_df" href=3D"https://www.pinterest.com/email/click/?user_i=
+d=3DNTk2MTY0MjA2ODMxNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiN=
+Dk1YjBiNiZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQw=
+MzM1OTY4NGIzYTEyN2I4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&am=
+p;target=3Dhttps%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fpolicy%2Fprivacy-polic=
+y%2F" style=3D"color: #333333;text-decoration: none" title=3D"">Pol=C3=ADti=
+ca de Privacidade</a>
+</span><!--
+--><!--[if !mso]><!--><span class=3D"dm_df m_none d_inline_block" style=3D"=
+display:none;text-align:center;vertical-align:center;color:#333333;white-sp=
+ace:pre">&nbsp;&nbsp;=C2=B7&nbsp;&nbsp;</span><!--<![endif]--><!--[if mso]>=
+<span
+style=3D"text-align:center;vertical-align:center;color:#333333;white-space:=
+pre"
+class=3D"dm_df m_none d_inline_block">&nbsp;&nbsp;=C2=B7&nbsp;&nbsp;</span>=
+<![endif]--><!--
+--><span class=3D"m_block d_inline_block" style=3D"display:block;vertical-a=
+lign:center">
+<a class=3D"dm_df" href=3D"https://www.pinterest.com/email/click/?user_id=
+=3DNTk2MTY0MjA2ODMxNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiND=
+k1YjBiNiZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQwM=
+zM1OTY4NGIzYTEyN2I4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&amp=
+;target=3Dhttps%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fpolicy%2Fterms-of-servi=
+ce%2F" style=3D"color: #333333;text-decoration: none" title=3D"">Termos e c=
+ondi=C3=A7=C3=B5es</a><!--
+--><span class=3D"dm_df" style=3D"color:#333333;white-space:pre">&nbsp;&nbs=
+p;=C2=B7&nbsp;&nbsp;</span><!--
+--><a class=3D"dm_df" href=3D"https://www.pinterest.com/email/click/?user_i=
+d=3DNTk2MTY0MjA2ODMxNzg0MTUw&amp;od=3DdD1hMjdmNDRiMThmYmM0YWIyOTA3NWYwM2FiN=
+Dk1YjBiNiZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX0JPQVJEX1JFQ1Mmcz04YTVlNTk4ODBiYTQw=
+MzM1OTY4NGIzYTEyN2I4MTY3ZiZuPTQyNDFkMTJlYjlmYjRkNWRiOTQ5YzgxYjVlNTZmMzlm&am=
+p;target=3Dhttps%3A%2F%2Fwww.pinterest.com%2Femail%2Funsubscribe%2F%3Fuser_=
+id%3DNTk2MTY0MjA2ODMxNzg0MTUw%26od%3DHpUUuH1iXS7UiZaUERuoh3JRokgbEmTHk1KVgN=
+Jq%252FjkVsYH5eV66a%252BBMYfXNheTR5XVC2f0fXOlCcLycpsryIVfwQ5hHQXe5AzyzwkUv1=
+lsqUCBaMeDBQpDyoBK5tIsc54uu6TTneaQ6jCwCRxK9cGIuUvPnD4gzkqyrjLhHFQYBrhCy7dut=
+bfZWdG1963wjK6x%252ByNYTLRebzYyJOizL5N8q96gzh%252Btx8UGglUUNtq5dIQio8AEWfgq=
+70DWLUNqmehf2fNysVDClBdf16uwmblRtzTHJvENZ1tBPvr3Gb18Pw1TUgGaSRinPiqY194nm71=
+%252BNt7%252FNjP0EyVl4P27bYsIkrODrvxFojGPJY6gTWCaoGtLhENo8Q7jd7Z2XtnXkdJ%25=
+2FP2gmj2aSUG1KsvcvFQnjRqWeA%252FeOJwMCvLJUpzp0HsMv9%252BUcP8Bso0WJfDpPT%26u=
+tm_campaign%3Druadboards%26e_t%3Da27f44b18fbc4ab29075f03ab495b0b6%26e_t_s%3=
+Dfooter%26utm_source%3D31%26utm_medium%3D2004" style=3D"color: #333333;text=
+-decoration: none" title=3D"Cancelar recebimento deste e-mail">Cancelar rec=
+ebimento</a>
+</span>
+</div>
+<!--[if !mso]><!-->
+<div class=3D"m_block d_none" style=3D"line-height:32px;font-size:32px">&nb=
+sp;</div>
+<!--<![endif]-->
+<div style=3D"text-align:center;font-size:12px;line-height:24px;font-weight=
+:regular;
+font-family: SF Pro Text,Roboto,Segoe UI,helvetica neue,helvetica,arial,san=
+s-serif;">
+<span class=3D"m_block d_inline_block" style=3D"display:block;vertical-alig=
+n:center">
+<a class=3D"dm_df" href=3D"#" style=3D"color: #333333;text-decoration: none=
+;pointer-events:none;"><!--
+-->Pinterest. Inc<!--
+--></a><!--
+--><span class=3D"dm_df" style=3D"color:#333333;white-space:pre">&nbsp;&nbs=
+p;=C2=B7&nbsp;&nbsp;</span><!--
+--><a class=3D"dm_df" href=3D"#" style=3D"color: #333333;text-decoration: n=
+one;pointer-events:none;"><!--
+-->651 Brannan Street<!--
+--></a>
+</span><!--
+--><!--[if !mso]><!--><span class=3D"dm_df m_none d_inline_block" style=3D"=
+display:none;text-align:center;vertical-align:center;color:#333333;white-sp=
+ace:pre">&nbsp;&nbsp;=C2=B7&nbsp;&nbsp;</span><!--<![endif]--><!--[if mso]>=
+<span
+style=3D"text-align:center;vertical-align:center;color:#333333;white-space:=
+pre"
+class=3D"dm_df m_none d_inline_block">&nbsp;&nbsp;=C2=B7&nbsp;&nbsp;</span>=
+<![endif]--><!--
+--><span class=3D"m_block d_inline_block" style=3D"display:block;vertical-a=
+lign:center">
+<a class=3D"dm_df" href=3D"#" style=3D"color: #333333;text-decoration: none=
+;pointer-events:none;"><!--
+-->San Francisco<!--
+--></a><!--
+--><span class=3D"dm_df" style=3D"color:#333333;white-space:pre">&nbsp;&nbs=
+p;=C2=B7&nbsp;&nbsp;</span><!--
+--><a class=3D"dm_df" href=3D"#" style=3D"color: #333333;text-decoration: n=
+one;pointer-events:none;"><!--
+-->CA, 94107<!--
+--></a>
+</span>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"dm_dbg" style=3D"border-collapse:collapse" width=3D"100%">
+<tr>
+<td>
+<div class=3D"d_block m_none" style=3D"height:32px;font-size:32px;line-heig=
+ht:32px;display:none">&nbsp;</div>
+<!--[if !mso]><!-->
+<div class=3D"d_none m_block" style=3D"height:16px;font-size:16px;line-heig=
+ht:16px">&nbsp;</div>
+<!--<![endif]-->
+</td>
+</tr>
+</table>
+<img height=3D"0" src=3D"https://www.pinterest.com/email/tracking.gif?e_t=
+=3Da27f44b18fbc4ab29075f03ab495b0b6" width=3D"0"/>
+<img alt=3D"" border=3D"0" height=3D"1" src=3D"https://www.pinterest.com/em=
+ail/open/?pd=3DdGlkPWEyN2Y0NGIxOGZiYzRhYjI5MDc1ZjAzYWI0OTViMGI2JmNpZD1SRUFM=
+VElNRV9VU0VSX0FDVElPTl9CT0FSRF9SRUNTJnRvX2FkZHI9ZGptZWNtYXJjZWxvMiU0MGdtYWl=
+sLmNvbSZwb3M9Ym90dG9tX3BpeGVsJnR5cGU9aHRtbCZzaWQ9OGE1ZTU5ODgwYmE0MDMzNTk2OD=
+RiM2ExMjdiODE2N2Ymc25pZD00MjQxZDEyZWI5ZmI0ZDVkYjk0OWM4MWI1ZTU2ZjM5ZiZ1aWQ9N=
+Tk2MTY0MjA2ODMxNzg0MTUw" width=3D"1"/><img width=3D"1px" height=3D"1px" alt=
+=3D"" src=3D"https://post.pinterestmail.com/o/eJw1jk1PwzAQRH8NPlbr9drxHnwoJ=
+YdKQKUUzpHXHyXQtFVS-P1YSJzmMjPv3ZevELGrRKJ9lURRkKGzFUwUYisgTq2XKQdC0lljEa5C=
+2WZh4uS12GJdNVzVdytZdtoRgvNGd560BTUFBDRgkBAtkdtAiVy9rhFqssnCA0Ge1nT9KcvmNl3=
+uZSnrfZOus_oITNgZV5msa4YNbxDFaKwWRMiQknwK_2vV-A48i1pC_pxLmuOSyvmKjXCa43T-O1=
+2bpo_Nmr0HiQTGNGtPYqLGTrx2XVUltGDHnrxTab6Fod8-v-1f-vH92A_jdve2P7yOj4ft8DQO_=
+e74C7fOXe4"></body>
+</html>
+
+--a32996c7eb23d0328a8eb1fdda1cfcc8952233c346b27ddd16f0976b59e6--
+From - Sat Mar 25 06:42:59 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Delivered-To: djmecmarcelo2@gmail.com
+Received: by 2002:a05:6f02:a446:b0:49:b18e:50be with SMTP id e6csp689797rcb;
+        Fri, 24 Mar 2023 07:11:38 -0700 (PDT)
+X-Google-Smtp-Source: AKy350bNfzfeTBMhmVhluSQcYhj0hSGwpQYH7JfUFUKifpxhsOqhBduRO+Bzt8PXj7AqnwNxsOdP
+X-Received: by 2002:a05:6102:20f:b0:425:fce2:d19e with SMTP id z15-20020a056102020f00b00425fce2d19emr1074737vsp.2.1679667098056;
+        Fri, 24 Mar 2023 07:11:38 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1679667098; cv=none;
+        d=google.com; s=arc-20160816;
+        b=Rdg+gqtalbFQR5REK7zQyz31hxSvaHt/lZnMcmFLVX56DHmDHIrTyutQaqDJAwHYES
+         RYUt5/ADFlzCCtQAgWW6ZmK29aTN4dboGEUOZGuTpfQwM6rYCfycttM5RAeW1hG+mohl
+         MDbltBlutvVL6dL5fyaFY+V8LGPxNR1bh3ZFp2QMQFO4/kzjd4Y+cQCTBVNvScK95Fng
+         aPaj6VYfVlMHSXpm33jFfkC9OaXzEsjZLwgWoqxkDodfv7azM1De3d6wgCF9hXj3csb3
+         kl5Uz9FjHlvkCRt72Wmg3rQAEvS4x4wCipUMPi4W2zND5LBdMMOoknp4I9sG1n1XpI0+
+         5cqg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:precedence:reply-to:subject:message-id:mime-version:from:date
+         :dkim-signature:dkim-signature;
+        bh=GUdrFaPmbpK1UTidDKgQFHC0kgJl+EFc3PEYE4FGZ60=;
+        b=ywelw84AM8BhlHmtOuGm0XGdRixIlwsziZmo9BrvOcYUjrn9zYQNkUdkDKmqpjDav+
+         WAlLY0sWwyKL1jR2twPSdFToLfG764dM0wkkiPkWLoeNZdYfAwM5s3KqqfdHDrJa/VVs
+         tp1FhvhvAv1UlbjbW4S9oDA+55HaeAbHmZJy+VhTqneS10jcxaxLuZMtcR24i0uyK0GT
+         WUTvmb/AhZFsXV2/zeKNEvtDFoHSj59wHbjYM6GzZiOctE7bVEuLH+HdvWkXyFI//ZaY
+         7LPNAPZh8FKqDaGreAWrcHrMrehOAer8PS0fSiQplFmJx0CG+HzEclbZ8qufTQac5pXV
+         NWqg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@rdsv4.net header.s=s1 header.b=XLYplYdB;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=BfVlum6t;
+       spf=pass (google.com: domain of bounces+15911377-bb00-djmecmarcelo2=gmail.com@mail.rdsv4.net designates 167.89.79.48 as permitted sender) smtp.mailfrom="bounces+15911377-bb00-djmecmarcelo2=gmail.com@mail.rdsv4.net"
+Return-Path: <bounces+15911377-bb00-djmecmarcelo2=gmail.com@mail.rdsv4.net>
+Received: from o1678979x48.outbound-mail.sendgrid.net (o1678979x48.outbound-mail.sendgrid.net. [167.89.79.48])
+        by mx.google.com with ESMTPS id j26-20020a05610202fa00b004260fedffc0si4091348vsj.500.2023.03.24.07.11.37
+        for <djmecmarcelo2@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Fri, 24 Mar 2023 07:11:38 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+15911377-bb00-djmecmarcelo2=gmail.com@mail.rdsv4.net designates 167.89.79.48 as permitted sender) client-ip=167.89.79.48;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@rdsv4.net header.s=s1 header.b=XLYplYdB;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=BfVlum6t;
+       spf=pass (google.com: domain of bounces+15911377-bb00-djmecmarcelo2=gmail.com@mail.rdsv4.net designates 167.89.79.48 as permitted sender) smtp.mailfrom="bounces+15911377-bb00-djmecmarcelo2=gmail.com@mail.rdsv4.net"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rdsv4.net;
+	h=content-type:from:mime-version:subject:reply-to:x-feedback-id:to:cc:
+	content-type:from:subject:to;
+	s=s1; bh=GUdrFaPmbpK1UTidDKgQFHC0kgJl+EFc3PEYE4FGZ60=;
+	b=XLYplYdB0wFNj8HKrqhhX456JVk3THcItydBuTtzjft9ULiAJW894u/TuCLgaAHpBhtk
+	p+wlIEPxrfHX36PqoQmW9RQgWqnrQCtrdE7y3GzWyDxxK+dMC80ShuD5Yl04aqSCTt+5sG
+	Ri8PIQ7D4pVWgQEdzKnoCc
